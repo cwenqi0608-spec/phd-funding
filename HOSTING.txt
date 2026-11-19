@@ -1,0 +1,14 @@
+Phoebe PhD funding workbook — static files
+
+Upload the contents of this folder to the root of a static host so that
+index.html is served at /. Do not run Node. Bookmarks and notes stay in
+the browser that opens the site; they are not inside this folder.
+
+The full audit JSON is at data/verified-2026-11-18.json.
+The audit note is at data/audit-2026-11-18.md.
+
+Free static hosting, without buying a plan and without copying the Origin
+repository to GitHub: use a static host you already can access
+(for example Cloudflare Pages or Netlify Drop) and upload this folder.
+You choose the site name and who can see it. Opening these HTML files
+directly from disk will not load the assets.

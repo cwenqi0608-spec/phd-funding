@@ -1,0 +1,1381 @@
+{
+  "meta": {
+    "title": "博士资助两批共13项独立核验结果",
+    "verifier": "博士资助核验官",
+    "verification_date_beijing": "2026-11-18",
+    "last_verified_beijing": "2026-11-18 22:43:43 CST",
+    "last_verified_tz_label": "北京时间（Asia/Shanghai，UTC+8）",
+    "n_items": 13,
+    "n_batch1": 5,
+    "n_batch2": 8,
+    "original_files_untouched": [
+      "/workspace/phd-funding/research/candidates.json",
+      "/workspace/phd-funding/research/candidates-batch2.json"
+    ],
+    "readonly_snapshots": [
+      "/workspace/phd-funding/research/snapshots/candidates-batch1-2026-11-18-readonly.json",
+      "/workspace/phd-funding/research/snapshots/candidates-batch2-2026-11-18-readonly.json",
+      "/workspace/phd-funding/research/snapshots/verified-batch1-2026-11-18-readonly.json"
+    ],
+    "intermediate_batch2": "/workspace/phd-funding/research/verified-batch2.json",
+    "output_files": {
+      "verified_json": "/workspace/phd-funding/research/verified.json",
+      "audit_md": "/workspace/phd-funding/research/audit.md"
+    },
+    "scope": "仅独立复核已交付的两批共13项及必要关联官方页，不重复全网搜集，不编排名或截止，不假定用户国籍或GPA，不作个人匹配判断。",
+    "timezone_rule": "官方原时区与北京时间并列。未公布钟点或只写midnight者，不得自定23:59为官方值，也不能给出精确北京时刻。1月CET=UTC+1；2027-03-28后至10月为CEST=UTC+2；英国2026-10-25后至2027年3月末为GMT=UTC+0。",
+    "actions_not_taken": [
+      "未修改两批原始候选文件",
+      "未建网页或Page",
+      "未创建例行任务",
+      "未联系导师或学校",
+      "未提交申请",
+      "未向用户或其他助理发送消息"
+    ],
+    "overall_status_summary": {
+      "eui-phd-2027-28-hec-sps-maeci": {
+        "batch": 1,
+        "status": "待核实"
+      },
+      "gates-cambridge-phd-international-2027-28": {
+        "batch": 1,
+        "status": "通过"
+      },
+      "oxford-clarendon-dphil-ssh-2027-28": {
+        "batch": 1,
+        "status": "通过"
+      },
+      "lse-phd-studentships-2027-28": {
+        "batch": 1,
+        "status": "待核实"
+      },
+      "ceu-doctoral-scholarship-2027-socanth-history": {
+        "batch": 1,
+        "status": "修正"
+      },
+      "iheid-phd-support-package-2027": {
+        "batch": 2,
+        "status": "修正"
+      },
+      "sciencespo-contrat-doctoral-soc-hist-2027": {
+        "batch": 2,
+        "status": "通过"
+      },
+      "uzh-minaret-dc7-anthropology-2027": {
+        "batch": 2,
+        "status": "通过"
+      },
+      "leiden-phd-indigenous-heritage-mapuche-2027": {
+        "batch": 2,
+        "status": "通过"
+      },
+      "vu-phd-early-modern-religious-debates-2027": {
+        "batch": 2,
+        "status": "通过"
+      },
+      "aarhus-locis-phd-fellowships-2027": {
+        "batch": 2,
+        "status": "通过"
+      },
+      "lund-minaret-soclaw-islamic-ethics-ca-2027": {
+        "batch": 2,
+        "status": "通过"
+      },
+      "imprs-spce-cologne-2027-cycle-announced": {
+        "batch": 2,
+        "status": "修正"
+      }
+    },
+    "batch1_verified_at": "2026-11-18 22:39:29 CST",
+    "batch2_verified_at": "2026-11-18 22:43:43 CST"
+  },
+  "items": [
+    {
+      "stable_id": "eui-phd-2027-28-hec-sps-maeci",
+      "verification_status": "待核实",
+      "verification_status_reason": "项目专页、申请指南与博士总览均写2027-01-15 14:00 CET，Educational programmes列表对同一批博士项目写15/01/2027 23:59 CET。冲突仍在，未被单一权威来源消除。其余主字段（周期、MAECI中国国籍路径、2027月额、3+1年、学费覆盖）与官方一致。",
+      "original_title": "欧洲大学学院（EUI）博士项目资助（历史与文明 / 政治与社会科学），中国公民主要路径为意大利外交与国际合作部“外国人奖学金”（MAECI Grants for Foreigners）",
+      "institution": "European University Institute (EUI)，佛罗伦萨",
+      "is_phd_not_masters": {
+        "status": "通过",
+        "finding": "核验对象为HEC与SPS的Doctoral Programme / four-year PhD，不是硕士项目。"
+      },
+      "cycle": {
+        "status": "通过",
+        "official": "2027-28 academic year",
+        "programme_start": "2027-09-01",
+        "application_status": "现已开放（申请表官方写available on 1 November；核验日仍开放）"
+      },
+      "original_conclusions_summary": {
+        "deadline": "主文本15 January 2027 14:00 CET=2027-01-15 21:00北京时间；Educational programmes写23:59 CET=2027-01-16 06:59北京时间，存在冲突",
+        "award": "月额1,685€ as of 1 January 2027；前3年MAECI、第4年EUI同额另加其他津贴；学费覆盖",
+        "eligibility": "MAECI名单含PRC；须在表中选择Grants for Foreigners；欧盟双重国籍排除；中国学位适用Other countries通项，不能断言个人合格"
+      },
+      "fields": {
+        "application_open": {
+          "status": "通过",
+          "official_raw": "You must submit your application and all required documents via the interactive online application form available on 1 November.",
+          "original_datetime": "官方只写1 November，年份由2027-28轮次语境推定为2026-11-01；时刻未公布",
+          "beijing_time": "推定为2026-11-01当日，时刻未公布。该日已过，本轮在核验日仍开放。",
+          "evidence": [
+            {
+              "url": "https://www.eui.eu/apply?id=doctoral-programme-in-history-and-civilisation&subpage=informationForApplicants",
+              "quote": "You must submit your application and all required documents via the interactive online application form available on 1 November.",
+              "page_date": "页面无Last-Modified；响应Date约2026-11-18 14:21 GMT",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "application_deadline": {
+          "status": "待核实",
+          "conflict": true,
+          "conflict_statement": "同一官方站点给出两个不同截止时刻，尚未由校方在单一权威说明中消除。可将较早的14:00 CET作为准备目标，但不能把其中任一时刻写成已被权威确认的唯一官方事实。晚交会被拒。",
+          "source_a": {
+            "datetime_official": "2027-01-15 14:00 CET（Time in Italy；1月CET=UTC+1）",
+            "beijing_time": "2027-01-15 21:00 北京时间（Asia/Shanghai，UTC+8）",
+            "appears_on": [
+              "博士项目总览",
+              "HEC项目页",
+              "SPS项目页",
+              "HEC申请指南（含推荐信同一时刻）"
+            ]
+          },
+          "source_b": {
+            "datetime_official": "2027-01-15 23:59 CET",
+            "beijing_time": "2027-01-16 06:59 北京时间（Asia/Shanghai，UTC+8）",
+            "appears_on": [
+              "Educational programmes即将截止列表，明确标注Doctoral Programme in History and Civilisation与Political and Social Sciences"
+            ]
+          },
+          "earliest_known_for_preparation_only": "建议按最早已知期限2027-01-15 14:00 CET（=2027-01-15 21:00北京时间）准备；此为风险规避建议，不是官方裁断。",
+          "evidence": [
+            {
+              "url": "https://www.eui.eu/apply?id=doctoral-programme-in-history-and-civilisation",
+              "quote": "The deadline to apply for the 2027-28 academic year is 15 January 2027 at 14:00 CET (Time in Italy). Later applications will not be accepted.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://www.eui.eu/apply?id=doctoral-programme-in-political-and-social-sciences",
+              "quote": "The deadline to apply for the 2027-28 academic year is 15 January 2027 at 14:00 CET (Time in Italy). Later applications will not be accepted.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://www.eui.eu/en/services/academic-service/doctoral-programme",
+              "quote": "Applications are now open! The deadline to apply for the 2027-28 academic year is 15 January 2027 at 14:00 (CET). Later applications will not be accepted.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://www.eui.eu/apply?id=doctoral-programme-in-history-and-civilisation&subpage=informationForApplicants",
+              "quote": "Applications may be submitted until 14:00 (CET - time in Italy) on that day. ... Reference letters will not be accepted after the deadline of 15 January (14:00 - CET).",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://www.eui.eu/en/public/educational-programmes",
+              "quote": "Department of History / Doctoral Programme in History and Civilisation / Start date: 01/09/2027 / Application deadline: 15/01/2027 23:59 CET；Department of Political and Social Sciences条目同样为15/01/2027 23:59 CET。",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "award": {
+          "status": "通过",
+          "currency": "EUR",
+          "monthly_amount": "1,685 € as of 1 January 2027；第4年写 the 2027 EUI 4th-year grant is 1.685 € per month, in addition to other allowances",
+          "year_label": "明确标注as of 1 January 2027 / the 2027 EUI 4th-year grant，属本轮已公布数字，非往年代用。1 January 2027是费率生效日，不是入学起薪日。",
+          "duration": "前3年由MAECI发放，第4年由EUI发放；整体四年博士。",
+          "tuition_coverage": "conditions页：The programme's tuition fees are also covered.",
+          "other": "Travel allowance: Yes (provided by the EUI). Health insurance: Yes. Family allowance: No.",
+          "evidence": [
+            {
+              "url": "https://www.eui.eu/en/services/academic-service/doctoral-programme/funding-information/italian-ministry-of-foreign-affairs-grants-for-foreigners-programme",
+              "quote": "Monthly Grant: 1,685 € as of 1 January 2027. ... The Grant Authority provides a monthly grant for the first three years of EUI Ph.D. Programme. The fourth year is covered by the EUI (the 2027 EUI 4th-year grant is 1.685 € per month, in addition to other allowances).",
+              "page_date": "页面正文：Page last updated on 14/10/2026",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://www.eui.eu/apply?id=doctoral-programme-in-history-and-civilisation&subpage=conditionsOfAward",
+              "quote": "The Italian Ministry of Foreign Affairs and International Cooperation awards grants to candidates from the following states: ... People's Republic of China (PRC) ... The programme's tuition fees are also covered.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "international_fee_differential": {
+          "status": "通过",
+          "finding": "不适用英国Home/Overseas结构。MAECI路径学费由项目覆盖。自费/无资格资助者学费总额未在已打开资助页公布。"
+        },
+        "nationality_and_china_eligibility": {
+          "status": "通过",
+          "finding": "MAECI授予名单含People's Republic of China (PRC)。须在申请表Funding Authority选择“Grants for Foreigners: ALB, BIH, CHN, …”。欧盟成员国双重国籍者不可申请该奖。用户国籍细节未知，不能断言个人一定合格。未选正确资助当局则不能按该项目考虑录取。",
+          "evidence": [
+            {
+              "url": "https://www.eui.eu/en/services/academic-service/doctoral-programme/funding-information/italian-ministry-of-foreign-affairs-grants-for-foreigners-programme",
+              "quote": "To apply for these grants, candidates must select “Grants for Foreigners: ALB, BIH, CHN, EGY, ETH, MNE, NGA, MKD, XKX, RUS, SRB, TUN, TUR, UKR, USA” in the Funding Authority section of the EUI application form. ... People's Republic of China (PRC) ... EU Candidates who are dual nationals ... are not eligible for these scholarships.",
+              "page_date": "Page last updated on 14/10/2026",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "language_education_materials_route": {
+          "status": "通过",
+          "degree": "须满足所申请资助当局最低学位要求；一般规则8月31日前达到。中国/MAECI未在学位清单单列，适用“Other countries: Diploma equivalent to the minimum qualification needed to study for a doctorate in a given country”。不得断言某份中国学历自动合格。",
+          "english": "期望CEFR C1。IELTS from 7.5；TOEFL (IBT) from 110 / 5.5；CPE A/B/C；CAE A/B。母语或全英文授课并英文写论文可免证书。",
+          "proposal": "英文或法文，不超过2500词（含脚注、参考文献与书目）。HEC主要考虑14世纪至今欧洲史，古典与早期中世纪通常不考虑。官方：Do not contact potential supervisors。",
+          "writing_sample": "HEC申请页未将独立写作样本列为必需。",
+          "references": "2封学术推荐信，须在同一截止前在线提交。强烈建议11月开放后尽早注册推荐人。",
+          "route": "先EUI网申并选择资助当局（无单独MAECI申请，希腊/斯洛文尼亚除外，与本中国路径无关）→材料与推荐信同一截止→委员会选拔。CSC不是该路径步骤。",
+          "earliest_internal_deadline": "已打开页未公布更早的院系/提名内部截止；申请、材料与推荐信均为同一官方截止（时刻冲突见上）。"
+        },
+        "csc_and_return_obligation": {
+          "status": "通过",
+          "finding": "MAECI/EUI已打开官方页未将其表述为CSC项目，也未写中国留学基金委回国义务。CSC若另行申请须另核CSC官方条款，不能并入本奖。"
+        }
+      },
+      "corrections": [],
+      "residual_unverified": [
+        "14:00 CET与23:59 CET的截止时刻冲突尚未消除",
+        "资助精确起薪日（入学2027-09-01 vs 月额标注as of 1 January 2027）未另作说明",
+        "无资助录取者应缴学费总额未公布",
+        "用户国籍、学历是否满足‘Other countries’博士入学最低资格、语言成绩、研究方向与HEC/SPS匹配度均未知"
+      ],
+      "batch": 1
+    },
+    {
+      "stable_id": "gates-cambridge-phd-international-2027-28",
+      "verification_status": "通过",
+      "verification_status_reason": "国际轮开放、抽样课程资助截止、覆盖原则、2026-27生活费标签、Overseas组合费与资格条款均与官方一致。仅有申请开放日在Gates页与剑桥课程页之间的并列官方差异，以及入学年生活费未公布，不影响主结论通过。",
+      "original_title": "Gates Cambridge Scholarship（剑桥大学，国际轮，博士）",
+      "institution": "University of Cambridge",
+      "is_phd_not_masters": {
+        "status": "通过",
+        "finding": "Gates同时覆盖部分硕士，但本条核验对象是PhD（full-time or part-time试验方案）；抽样课程均为PhD。约三分之二奖授予博士。不能把硕士课程期限套到博士。"
+      },
+      "cycle": {
+        "status": "通过",
+        "official": "academic year 2027/8 或 2027/28 entry",
+        "programme_start_sampled": "Course starts Oct. 1, 2027（Michaelmas 2027）",
+        "application_status": "国际轮现已开放；美国居民美籍轮已于2026-10-14 23:59 UK time截止（该日仍为BST）"
+      },
+      "original_conclusions_summary": {
+        "deadline": "抽样史/社会学/社会人类学Course Funding Deadline 2026-12-08 23:59 UK time=2026-12-09 07:59北京时间",
+        "award": "UCF at the appropriate rate；生活费£23,152为2026-27 rate，至多4年；另含往返经济舱、签证与IHS",
+        "fees": "2027 gaobase Overseas UCF £33,876，Home £11,208，年差额£22,668"
+      },
+      "fields": {
+        "application_open": {
+          "status": "通过",
+          "note": "两个官方来源日期并列，不作单一裁断。",
+          "gates_official": "Applications open 11th September 2026（国际轮与美籍轮均如此）",
+          "cambridge_course_pages": "Applications open Sep. 9, 2026（Sociology / History / Social Anthropology课程页）",
+          "beijing_time": "日期已过；时刻未在开放日行公布。核验日国际轮仍开放。"
+        },
+        "application_deadline": {
+          "status": "通过",
+          "international_round_principle": "按课程Course Funding Deadline，全部文件须在该日11:59pm UK time提交。2027/28大学主资助截止为Tuesday 8 December 2026与Wednesday 6 January 2027。",
+          "sampled_courses": {
+            "PhD Sociology / History / Social Anthropology": {
+              "course_funding_deadline_official": "Dec. 8, 2026 / Course Funding Deadline Dec. 8, 2026",
+              "clock": "Gates: 11:59pm UK time；大学资助页: 23:59 GMT。2026-12-08英国已是GMT（UTC+0），二者一致。",
+              "beijing_time": "2026-12-08 23:59 GMT = 2026-12-09 07:59 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          },
+          "other_course_deadline_not_for_this_award": "课程一般申请截止更晚（社会学Apr. 28, 2027；社会人类学Feb. 25, 2027；历史May. 13, 2027），不能替代资助截止。",
+          "us_round_already_closed": "Wednesday 14th October 2026, 11:59pm UK time。2026-10-14仍为BST（UTC+1）= 2026-10-15 06:59北京时间。仅适用于当时居住在美国的美国公民。",
+          "gates_alt_january_deadline": "部分其他课程为Wednesday 6th January 2027 11:59pm UK time = 2027-01-07 07:59北京时间；本次抽样三门不是该日。",
+          "earliest_internal_deadline": "抽样三门已公布的最早大学资助/Gates国际轮截止为2026-12-08 23:59 GMT。已打开页未另列更早院系提名截止。",
+          "evidence": [
+            {
+              "url": "https://www.gatescambridge.org/apply/timeline/",
+              "quote": "Applications for entry in the academic year 2027/8 are now open. ... Application deadline* Dependent on your course – either Tuesday 8th December 2026 or Wednesday 6th January 2027 ... (Full application must be submitted by 11:59pm UK time)",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://www.postgraduate.study.cam.ac.uk/funding",
+              "quote": "For 2027/28 entry, the main University funding deadlines are: Tuesday 8 December 2026; Wednesday 6 January 2027. ... To be considered for funding, you must submit your complete application, including references, by 23:59 GMT on the relevant deadline.",
+              "page_date": "HTTP Last-Modified: Wed, 18 Nov 2026 12:42:06 GMT（=2026-11-18 20:42:06 北京时间）",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/aasopdsoc/finance",
+              "quote": "Funding Deadlines Course Funding Deadline Dec. 8, 2026 Gates Cambridge US round only Oct. 14, 2026 These deadlines apply to applications for courses starting in Michaelmas 2027, Lent 2028 and Easter 2028.",
+              "page_date": "HTTP Last-Modified: Wed, 18 Nov 2026 14:17:27 GMT（=2026-11-18 22:17:27 北京时间）",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "award": {
+          "status": "通过",
+          "currency": "GBP",
+          "tuition_coverage": "the University Composition Fee at the appropriate rate（应按申请人费率，国际生为Overseas）。若已获UKRI等公共学费奖，Trust可不付或分担。",
+          "maintenance": "£23,152 for 12 months at the 2026-27 rate；博士至多4年。2027-28入学年生活费标准未在该页公布，不得把£23,152当作已公布的2027-28发放额。",
+          "travel_visa": "官方原文为 one economy single airfare at both the beginning and end of the course（开学与结束各一张单程经济舱），另含 inbound visa costs & Immigration Health Surcharge。可理解为往返各一程，但原文不是“一张往返票”。",
+          "discretionary": "学术发展、子女津贴、田野期间可申请保留生活费（不另付其他田野费用）、生育、困难资助等为酌情项目。",
+          "evidence": [
+            {
+              "url": "https://www.gatescambridge.org/programme/the-scholarship/",
+              "quote": "the University Composition Fee at the appropriate rate*；a maintenance allowance for a single student (£23,152 for 12 months at the 2026-27 rate; pro rata for courses shorter than 12 months) – for PhD scholars the award is for up to 4 years；one economy single airfare at both the beginning and end of the course；inbound visa costs & the cost of the Immigration Health Surcharge",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "international_fee_differential": {
+          "status": "通过",
+          "highlight": "必须凸显Overseas差额。官方2027 gaobase（fee_status=O）显示抽样三门PhD的University Composition Fee均为Overseas £33,876，Home（fee_status=H）均为£11,208，年差额£22,668。另列Maintenance估计£20,700（费用估算，不是奖学金本身）。",
+          "gates_coverage": "Gates覆盖UCF at the appropriate rate，旨在覆盖国际全额组合费，与只付Home费率的部分英国奖不同。",
+          "college_fee_note": "大学学费总论页将UCF表述为含教学、导师以及大学和学院设施与支持服务；学院另行收取住宿餐饮等生活费用。未见这三门PhD另列独立学院学费。未逐学院核对住宿费。课程页静态HTML费用区为Loading...，费用以gaobase官方组件为准。",
+          "ucf_minimum_terms": "PhD全日制UCF至少缴纳9 terms（3 years）。",
+          "evidence": [
+            {
+              "url": "https://2027.gaobase.admin.cam.ac.uk/api/courses/AASOPDSOC/financial_tracker.html?fee_status=O",
+              "quote": "University Composition Fee £33,876 Maintenance £20,700 Total Annual Commitment £54,576",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://2027.gaobase.admin.cam.ac.uk/api/courses/AASOPDSOC/financial_tracker.html?fee_status=H",
+              "quote": "University Composition Fee £11,208 Maintenance £20,700 Total Annual Commitment £31,908",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://2027.gaobase.admin.cam.ac.uk/api/courses/HIHIPDHIS/financial_tracker.html?fee_status=O",
+              "quote": "University Composition Fee £33,876（History Overseas与社会学相同）",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://2027.gaobase.admin.cam.ac.uk/api/courses/AASAPDSAP/financial_tracker.html?fee_status=O",
+              "quote": "University Composition Fee £33,876（Social Anthropology Overseas与上相同）",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://www.postgraduate.study.cam.ac.uk/finance/fees",
+              "quote": "The University Composition Fee (UCF) is basically your course tuition fee. It covers the cost of your teaching and supervision, and access to University and College facilities and support services. ... PhD, CPGS ... 9 terms (3 years). The University Composition Fee is collected by your College ... along with any College-related living costs such as rent and meals.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "eligibility_materials_route": {
+          "status": "通过",
+          "nationality": "a citizen of any country outside the United Kingdom。中国公民作为非英国公民属于国际轮可能适用人群，但录取与获奖均非自动，且用户国籍/GPA未知，不能断言个人合格。",
+          "route": "剑桥研究生申请门户同时提交课程录取、学院与资助（勾选Gates并完成Gates问题、博士研究计划、额外Gates推荐信）。另需两封学术推荐信。全部须在课程资助截止前提交。",
+          "csc": "已打开Gates官方页未将其列为CSC项目，也未写回国义务。若另行申请CSC须另核。"
+        }
+      },
+      "corrections": [
+        "机票官方表述是开学与结束各一张单程经济舱（one economy single airfare at both the beginning and end of the course），不宜简化成未经引述的“一张往返票”。含义接近往返，但应以原文为准。"
+      ],
+      "residual_unverified": [
+        "2027-28入学年生活费额未公布",
+        "未逐学院核对住宿等学院生活费用",
+        "各课程是否必须预联系导师未在本次资助页全部核完（非本奖关键排除项）",
+        "用户国籍细节、GPA、语言与研究方向未知"
+      ],
+      "batch": 1
+    },
+    {
+      "stable_id": "oxford-clarendon-dphil-ssh-2027-28",
+      "verification_status": "通过",
+      "verification_status_reason": "资格无国籍限制、自动考虑、课程费全额含Overseas、生活费举例年份、抽样课程2027-28学费与1月7日中午截止均与官方一致。此前未核的fee liability本次已由官方专页补证。课程页截止标签在社会学与史/人类学之间表述不同，已记录，但不改变1月7日作为本批抽样课程相关截止这一已公布事实。",
+      "original_title": "Clarendon Scholarship（牛津大学，社科/人文DPhil抽样）",
+      "institution": "University of Oxford",
+      "access_limitation": "ox.ac.uk 对箱内curl返回Cloudflare 403；本次改用同一官方URL的公开抓取（WebFetch）成功读取正文。无HTTP Last-Modified，仅记录获取时间。未绕过登录或封禁。",
+      "is_phd_not_masters": {
+        "status": "通过",
+        "finding": "Clarendon也向Master’s开放，但本条抽样为DPhil in Sociology / Anthropology / History / Economic and Social History，均是博士。"
+      },
+      "cycle": {
+        "status": "通过",
+        "official": "2027-28 entry",
+        "programme_start": "Expected start date 3 October 2027",
+        "application_status": "抽样课程页标注Open"
+      },
+      "original_conclusions_summary": {
+        "deadline": "须在课程的December or January admissions deadline申请；抽样课程2027-01-07 12:00 UK time=2027-01-07 20:00北京时间",
+        "award": "course fees in full（Home and Overseas）；全日制生活费至少UKRI最低额，举例2025-26至少£20,780；通常为fee liability期间",
+        "fees": "History Overseas £39,300（差额£24,270）；Sociology £32,970（差额£19,720）；Anthropology £34,930（差额£10,980）"
+      },
+      "fields": {
+        "application_deadline": {
+          "status": "通过",
+          "clarendon_principle": "If you apply for a full-time or part-time Master’s or DPhil at Oxford by the relevant December or January funding deadline for your course, you will be automatically considered. 无单独奖学金表。",
+          "sampled_courses": {
+            "all_four": "Upcoming application deadline for 2027-28 entry: 12:00 midday UK time on Thursday 7 January 2027。1月英国为GMT（UTC+0）。北京时间：2027-01-07 20:00。",
+            "sociology_label": "社会学页将该日标明为 Final application deadline to be considered for Oxford scholarships；另有 12:00 midday UK time Tuesday, 2 March, 2027 为 Final application deadline for entry in 2027-28（此日不能再被Clarendon考虑）。",
+            "history_anth_esh_label": "History、Anthropology、Economic and Social History页目前只列出7 January 2027，并标注为 Final application deadline for entry in 2027-28，未见第二轮3月截止，也未单独打印“Oxford scholarships”字样。按Clarendon总则，仍须在该课程的12月或1月相关截止前提交；本批抽样均为1月7日中午。不能把社会学的3月截止套到这三门课。"
+          },
+          "earliest_internal_deadline": "抽样四门已公布的相关截止同为2027-01-07 12:00 UK time。已打开页未另列更早的Clarendon提名内部截止；部门提名在申请之后内部进行（2–3月分部评审）。",
+          "evidence": [
+            {
+              "url": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/funding/clarendon/applicants",
+              "quote": "If you apply for a full-time or part-time Master’s or DPhil at Oxford by the relevant December or January funding deadline for your course, you will be automatically considered for a Clarendon scholarship. ... You do not need to submit any additional documents and there are no separate scholarship application forms for Clarendon.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）",
+              "limitation_note": "ox.ac.uk 对箱内curl返回Cloudflare 403；本次改用同一官方URL的公开抓取（WebFetch）成功读取正文。无HTTP Last-Modified，仅记录获取时间。未绕过登录或封禁。"
+            },
+            {
+              "url": "https://www.ox.ac.uk/admissions/graduate/courses/dphil-sociology",
+              "quote": "12:00 midday UK time Thursday, 7 January, 2027 — Final application deadline to be considered for Oxford scholarships. 12:00 midday UK time Tuesday, 2 March, 2027 — Final application deadline for entry in 2027-28.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）",
+              "limitation_note": "ox.ac.uk 对箱内curl返回Cloudflare 403；本次改用同一官方URL的公开抓取（WebFetch）成功读取正文。无HTTP Last-Modified，仅记录获取时间。未绕过登录或封禁。"
+            }
+          ]
+        },
+        "award": {
+          "status": "通过",
+          "currency": "GBP",
+          "tuition_coverage": "Clarendon scholarships cover course fees in full. This applies to Home and Overseas fee status students.",
+          "living_expenses": "全日制年生活费至少为UKRI minimum doctoral stipend rate。In 2025-26, scholars receive at least £20,780。不得把£20,780当作2026-27或2027-28已公布Clarendon额度。2027-28仅能引用“至少UKRI博士最低津贴”原则；该年UKRI数字如需引用须另开UKRI页（本次未把UKRI额写入本奖已公布发放额）。",
+          "duration": "通常为fee liability期间。学部可酌情延长只发生活费的额外学习期；continuation charges不由Clarendon支付。精确年限以offer函为准。",
+          "evidence": [
+            {
+              "url": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/funding/clarendon/applicants",
+              "quote": "Clarendon scholarships cover course fees in full. This applies to Home and Overseas fee status students. Scholars on a full-time course will receive an annual grant for living expenses of at least the UKRI minimum doctoral stipend rate... In 2025-26, scholars receive at least £20,780. Clarendon scholarships are normally offered for a scholar's period of fee liability... continuation charges, which are not covered by the Clarendon Fund.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）",
+              "limitation_note": "ox.ac.uk 对箱内curl返回Cloudflare 403；本次改用同一官方URL的公开抓取（WebFetch）成功读取正文。无HTTP Last-Modified，仅记录获取时间。未绕过登录或封禁。"
+            }
+          ]
+        },
+        "fee_liability_and_continuation": {
+          "status": "通过",
+          "finding": "此前候选标注fee liability专页被拦截、未核验。本次已打开官方专页：Social Sciences与Humanities博士标准fee liability为9 terms；预期完成3–4年。大多数DPhil在第10学期开始缴纳大学continuation charge。人文学部与社会科学部无MPLS式第四年自动豁免。University continuation charge 2027/28为每学期£680（2026/27为£656）。学院continuation charge另计（2027/28多数约£0–£170/学期，少数学院按年收取更高额）。",
+          "evidence": [
+            {
+              "url": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-and-other-charges/course-fees-and-fee-liability",
+              "quote": "Doctor of Philosophy (DPhil) and Doctoral Programmes in the Social Sciences (SSD) Division ... Standard fee liability: 9 terms. Continuation charges may be payable beyond 9 terms. ... Humanities ... Standard fee liability: 9 terms.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）",
+              "limitation_note": "ox.ac.uk 对箱内curl返回Cloudflare 403；本次改用同一官方URL的公开抓取（WebFetch）成功读取正文。无HTTP Last-Modified，仅记录获取时间。未绕过登录或封禁。"
+            },
+            {
+              "url": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-and-other-charges/continuation-charges",
+              "quote": "The University continuation charge per term is: 2026/27 Home and Overseas students £656; 2027/28 £680. ... For most DPhil students this will be in the 10th term after starting your DPhil. ... Humanities: All postgraduate research (PGR) students who have exceeded the standard period ... are liable ... Social Sciences: All postgraduate research (PGR) students who have exceeded the standard period ... are liable ...",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）",
+              "limitation_note": "ox.ac.uk 对箱内curl返回Cloudflare 403；本次改用同一官方URL的公开抓取（WebFetch）成功读取正文。无HTTP Last-Modified，仅记录获取时间。未绕过登录或封禁。"
+            }
+          ]
+        },
+        "international_fee_differential": {
+          "status": "通过",
+          "fees_2027_28_full_time": {
+            "DPhil_Sociology": {
+              "home": "£13,250",
+              "overseas": "£32,970",
+              "difference": "£19,720",
+              "part_time_shown": "£6,625 / £16,485"
+            },
+            "DPhil_Anthropology": {
+              "home": "£23,950",
+              "overseas": "£34,930",
+              "difference": "£10,980",
+              "part_time_shown": "£11,975 / £17,465"
+            },
+            "DPhil_History": {
+              "home": "£15,030",
+              "overseas": "£39,300",
+              "difference": "£24,270",
+              "part_time_shown": "£7,515 / £19,650"
+            },
+            "DPhil_Economic_and_Social_History": {
+              "home": "£15,030",
+              "overseas": "£39,300",
+              "difference": "£24,270",
+              "part_time_shown": "£7,515 / £19,650"
+            }
+          },
+          "source_formula": "各课程页 Fees for the 2027-28 academic year at the University of Oxford。较低一组为兼职费率。Clarendon声称全额覆盖课程费（含Overseas），故该奖本身应覆盖上述差额；若只拿到不补差额的其他奖，缺口仍在。课程页亦写2027-28入学的大学continuation charge为每学期£680。",
+          "evidence": [
+            {
+              "url": "https://www.ox.ac.uk/admissions/graduate/courses/dphil-history",
+              "quote": "Fees for the 2027-28 academic year ... Home £15,030 Overseas £39,300. The University continuation charge, per term for entry in 2027-28 is £680.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）",
+              "limitation_note": "ox.ac.uk 对箱内curl返回Cloudflare 403；本次改用同一官方URL的公开抓取（WebFetch）成功读取正文。无HTTP Last-Modified，仅记录获取时间。未绕过登录或封禁。"
+            }
+          ]
+        },
+        "eligibility_materials_route": {
+          "status": "通过",
+          "nationality": "There are no restrictions by nationality or country of ordinary residence. 中国公民无国籍壁垒，但不能断言个人合格或获奖。",
+          "academic_note": "选拔指南写多数成功者通常至少一等学位或同等，例如GPA至少3.7/4（且许多更高）。这是官方对成功者画像的描述，不是对用户的资格判定。用户GPA未知。",
+          "materials": "三封推荐信（四门抽样均写register three referees）。研究计划：社会学最多3,000词；人类学最多2,000词（书目不计）；历史与经济社会史500–1,000词（书目可不计，脚注计入）。写作样本：社会学两篇各最多2,000词；人类学两篇各最多2,000词；历史与经济社会史总计不超过4,000词。英语均为Higher（IELTS Academic 7.5，各项7.0；TOEFL iBT 110等）。2026-01-21起修订的TOEFL，牛津表示在完成评估前不接受该日起参加的TOEFL。",
+          "supervisor": "社会学鼓励申请前与潜在导师讨论计划。历史：申请前不必联系，但须确认有完整导师配置。经济社会史强烈建议识别潜在导师，可先联系但不是必须。用户方向未知，不能假设匹配。",
+          "route": "按课程1月截止提交牛津研究生申请即自动考虑Clarendon与多数牛津奖→部门录取与内部提名并行→2–3月学部分配→多数CB1约4月底前发出。CSC不是Clarendon步骤。",
+          "csc": "已打开Clarendon/牛津奖学金总页未将其列为CSC项目，也未写回国义务。若另行申请牛津或CSC联合项目须另核。"
+        }
+      },
+      "corrections": [
+        "fee liability此前待核，现已补证：抽样所属SSD/HUM标准为9个学期，人文学部与社会科学部第四年通常需缴continuation，不享MPLS式豁免。",
+        "Deadline标签：不可把社会学页的“奖学金截止/3月入学截止”双轨表述，写成History、Anthropology、ESH页也已同样标注。"
+      ],
+      "residual_unverified": [
+        "2027-28 Clarendon生活费具体英镑数未公布（仅有2025-26举例与UKRI最低原则）",
+        "是否延长fee liability之后的生活费，以offer函为准，不能统一写死",
+        "学院continuation具体数额依学院而异，录取前学院未知",
+        "用户GPA、国籍细节、语言与研究方向未知"
+      ],
+      "batch": 1
+    },
+    {
+      "stable_id": "lse-phd-studentships-2027-28",
+      "verification_status": "待核实",
+      "verification_status_reason": "社会学同一课程页并存2026-12-03与2027-12-03资助截止，冲突未被权威来源消除；2027/28津贴额未公布；人类学五年学制与四年学生ship之间的第五年覆盖未公布。学费、国际生可申请、四年全额学费表述及人类学/国际史各自截止已核。",
+      "original_title": "LSE PhD Studentships（抽样社会学 / 人类学 / 国际历史）",
+      "institution": "London School of Economics and Political Science",
+      "is_phd_not_masters": {
+        "status": "通过",
+        "finding": "对象为MPhil/PhD Sociology、MPhil/PhD International History，以及MRes/PhD Anthropology（一年MRes+四年PhD的博士路径，不是单独授课型硕士奖）。"
+      },
+      "cycle": {
+        "status": "通过",
+        "official": "Academic year 2027/28；Start date 27 September 2027（三门抽样课程页一致）",
+        "application_status": "Applications for entry in 2027/28 opened in October 2026；现已开放"
+      },
+      "original_conclusions_summary": {
+        "deadline_conflict": "社会学页同时出现3 December 2026与Funding deadline ... 3 December 2027；钟点未公布",
+        "anth": "资助截止3 December 2026；申请截止27 May 2027",
+        "ih": "资助截止13 January 2027",
+        "award": "四年cover full fees + annual stipend；2027/28津贴未公布；2026-27相关页写£23,805不得代用"
+      },
+      "fields": {
+        "application_deadline": {
+          "status": "待核实",
+          "conflict": true,
+          "general_school_dates": "When to apply页（2027/28）：3 December 2026为部分院系早截止；13 January 2027为主截止，保证考虑ESRC*、initial LSE PhD Studentships及其他竞争性全校学生ship；27 May 2027为最终第二截止（院系自选、未分配完的LSE PhD Studentships及自费）。须以各课程页为准。钟点全校均未公布，不能假定23:59 GMT，因此无法给出精确北京时刻。",
+          "sociology": {
+            "header_and_when_to_apply": "Application deadline 03 December 2026。When to apply：The application deadline for this programme is 3 December 2026. If you’d like to be considered for any funding opportunities, you must submit your application (and all supporting documents) by this application and funding deadline.",
+            "funding_section": "Funding deadline for LSE PhD Studentships, ESRC funding, Bloomberg Philanthropies PhD Studentships in Cities, and for CRICA: 3 December 2027.",
+            "conflict_assessment": "2027年12月晚于2027年9月27日入学，高度疑似笔误，但同一官方课程页两处年份不同，不能擅自改写为已确认的2026-12-03而不加注。建议按最早已知期限2026-12-03准备，此为风险规避建议，不是官方裁断。钟点未公布。"
+          },
+          "anthropology": {
+            "application_deadline": "27 May 2027（时刻未公布）",
+            "funding_deadline": "Deadline for the LSE PhD Studentships and ESRC funding: 3 December 2026（该页无2027年12月写法，时刻未公布）",
+            "status": "通过（就人类学页自身而言无年份冲突）"
+          },
+          "international_history": {
+            "application_deadline": "27 May 2027（时刻未公布）",
+            "funding_deadline": "Deadline for the LSE PhD Studentships and ESRC funding: 13 January 2027（时刻未公布）",
+            "status": "通过（就国际历史页自身而言）"
+          },
+          "earliest_known_for_preparation_only": "本批抽样中，已公布且无冲突的最早资助截止是人类学的2026-12-03；社会学若取较早出现的2026-12-03则与之相同，但该页同时写了2027-12-03。国际历史为2027-01-13。均无钟点。",
+          "evidence": [
+            {
+              "url": "https://www.lse.ac.uk/study-at-lse/graduate/mphilphd-sociology",
+              "quote": "Application deadline 03 December 2026. ... The application deadline for this programme is 3 December 2026. If you’d like to be considered for any funding opportunities, you must submit your application (and all supporting documents) by this application and funding deadline. ... Funding deadline for LSE PhD Studentships, ESRC funding, Bloomberg Philanthropies PhD Studentships in Cities, and for CRICA: 3 December 2027.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://www.lse.ac.uk/study-at-lse/graduate/mresphd-anthropology",
+              "quote": "Application deadline 27 May 2027. However, please note the funding deadlines. ... Deadline for the LSE PhD Studentships and ESRC funding: 3 December 2026.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://www.lse.ac.uk/study-at-lse/graduate/mphilphd-international-history",
+              "quote": "Deadline for the LSE PhD Studentships and ESRC funding: 13 January 2027.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/How-to-Apply/When-to-apply",
+              "quote": "Applications for entry in 2027/28 opened in October 2026. ... 3 December 2026 - some departments set this early deadline ... 13 January 2027 - main first deadline guaranteeing consideration for for ESRC*, initial LSE PhD Studentships and all other competitive/across-School studentships 27 May 2027 - final second deadline ...",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "award": {
+          "status": "待核实",
+          "currency": "GBP",
+          "duration_and_fees": "专页与研究资助总览：LSE PhD Studentships are tenable/for four years and cover full fees and an annual stipend. Available for UK and international students（总览还写EU）。按年续发视学业表现。",
+          "stipend_2027_28": "2027/28津贴金额在LSE PhD Studentship专页与研究资助总览均未公布。",
+          "stipend_prior_year_only": "管理学院Costs and Financial Aid页写：School-administered LSE PhD Studentships ... In 2026-27, a stipend of £23,805 will be awarded。此为2026-27数字，不得冒充2027-28。",
+          "anthropology_year5": "人类学为Five years - one year MRes, four years PhD。学生ship专页只写四年。第五年学费与津贴是否覆盖：未公布，保持待核实。",
+          "full_fees_interpretation": "LSE PhD Studentship写cover full fees并明确对国际生开放。ESRC段落另写：Studentships cover full fees (for international students, LSE will cover the difference between Home and Overseas fee rates)。该补差句出现在ESRC段；不能把ESRC补差句直接写成LSE PhD Studentship专页已定义“full fees=Overseas全额”的法律释义，但国际生可申请且专页写full fees是已公布事实。释义仍标待核实。",
+          "evidence": [
+            {
+              "url": "https://www.lse.ac.uk/study-at-lse/graduate/fees-and-funding/phd-studentships",
+              "quote": "LSE PhD Studentships are tenable for four years and cover full fees and an annual stipend. They are available for UK and international students undertaking research in any LSE discipline, with annual renewal subject to satisfactory academic performance.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/research-funding",
+              "quote": "LSE PhD Studentships are for four years and cover full fees and an annual stipend. They are available for UK, EU and international students ... Studentships cover full fees (for international students, LSE will cover the difference between Home and Overseas fee rates) and an annual stipend.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://www.lse.ac.uk/management/study/PhD/costs-and-financial-aid",
+              "quote": "School-administered LSE PhD Studentships cover fees and living expenses each year of the four year programme. In 2026-27, a stipend of £23,805 will be awarded.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "international_fee_differential": {
+          "status": "通过",
+          "fees_2027_28_first_year": {
+            "home": "£5,368",
+            "overseas": "£25,300",
+            "difference": "£19,932"
+          },
+          "note": "三门抽样课程页均为students starting in 2027/28的第一年学费，此后可能上调。海外页写 assumed percentage increase in pay costs (ie, four per cent each year)。必须凸显年差额约£19,932。本学生ship官方意图覆盖全额学费，仍须注意上栏对full fees释义的待核实点。",
+          "evidence": [
+            {
+              "url": "https://www.lse.ac.uk/study-at-lse/graduate/mphilphd-sociology",
+              "quote": "Home £5,368 Home student fee (students starting in 2027/28) The fee above applies to the first year of the programme only ... Overseas £25,300 Overseas student fee (students starting in 2027/28) ... likely to rise over the full duration of the programme in line with the assumed percentage increase in pay costs (ie, four per cent each year).",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "eligibility_materials_route": {
+          "status": "通过",
+          "nationality": "对UK and international students开放，按学术成绩与研究潜力评选。用户国籍/GPA未知，不能断言合格。社会学注明仅第一志愿被考虑。",
+          "materials": "三门抽样均列出：statement of academic purpose、references、CV、outline research proposal、sample of written work。人类学研究计划2,000–2,500词。推荐信封数未在课程页写明具体数字，标为未公布。",
+          "english": "本次补开官方英语要求页（Requirements for 2027/8 entry）。社会学与国际历史为Research：IELTS Academic overall 7.0，阅读7.0，听力6.5，写作7.0，口语6.5；TOEFL iBT 100（阅读25、听力22、写作27、口语22），updated scale overall 5.5。人类学为Higher：IELTS 7.0（阅读7.0，其余分项6.5）；TOEFL iBT 100（阅读25、听力22、写作24、口语22），updated scale overall 5.5。成绩须在2027-10-01时不满两年。中国校区2+2等通常不足以免试。",
+          "route": "提交LSE研究型课程申请即被考虑LSE PhD Studentship（无额外申请）。须在该课程资助截止前提交完整申请。自动考虑但仍由部门提名。CSC不是本学生ship步骤。",
+          "csc": "LSE-CSC Scholarship是研究资助总览上的单独项目（每年最多八个、至多四年），不是LSE PhD Studentship本身。另有Enlighten、Lee Family等对中国或香港offer holder的其他项目。CSC回国义务未打开国家留学基金委官方页，不能写入。",
+          "evidence": [
+            {
+              "url": "https://www.lse.ac.uk/study-at-lse/graduate/prospective-students/entry-requirements/english-language-requirements",
+              "quote": "Requirements for 2027/8 entry. ... C. Research - MPhil/PhD programmes (except Law and Statistics) ... IELTS ... 7.0 / 7.0 / 6.5 / 7.0 / 6.5. TOEFL iBT ... 100 / 25 / 22 / 27 / 22. TOEFL iBT (updated scale) 5.5 / 5 / 5 / 5.5 / 4.5. ... MRes/PhD Anthropology | Higher. English tests must be less than two years old on 1 October 2027.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/research-funding",
+              "quote": "LSE CSC Scholarship In partnership with the China Scholarship Council (CSC) the LSE-CSC Scholarship is available to support outstanding students from China in pursuing a research degree. We offer up to eight new scholarships each academic year, each scholarship is for up to four years.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        }
+      },
+      "corrections": [
+        "英语Research/Higher具体分数此前待补开，现已按2027/8官方表核验。",
+        "冲突确认：社会学资助截止年份在同一官方页仍为2026与2027并存，不能只保留其中一个而不标明冲突。"
+      ],
+      "residual_unverified": [
+        "社会学3 December 2026 vs 3 December 2027冲突未消",
+        "所有LSE资助截止的钟点未公布",
+        "2027/28 LSE PhD Studentship津贴额未公布",
+        "“full fees”对国际生是否在法律上等于Overseas全额，专页未用与ESRC段完全相同的补差句",
+        "人类学第五年（MRes+PhD五年结构）是否被四年学生ship覆盖",
+        "LSE推荐信封数未在课程页写明",
+        "LSE-CSC回国义务未核CSC官方条款",
+        "用户国籍、GPA、语言与研究方向未知"
+      ],
+      "batch": 1
+    },
+    {
+      "stable_id": "ceu-doctoral-scholarship-2027-socanth-history",
+      "verification_status": "修正",
+      "verification_status_reason": "截止、48个月税前津贴、全额学费原则、国籍开放与材料清单大体正确，但学费表中“综合考试后第2–4年”年费被原候选写成7,500 EUR，官方表实为每学年5,000 EUR（每期2,500）；7,500 EUR是第1年的每期金额。须修正。学费年份标签仍为AY 2025/26，津贴未标明专属2027批次。",
+      "original_title": "CEU Doctoral Scholarship（中欧大学，社会学与社会人类学 / 比较历史等相关博士）",
+      "institution": "Central European University (维也纳)",
+      "is_phd_not_masters": {
+        "status": "通过",
+        "finding": "对象为PhD in Sociology and Social Anthropology与PhD in Comparative History等博士，不是硕士奖。"
+      },
+      "cycle": {
+        "status": "通过",
+        "official": "Deadline: January 15, 2027；项目页：Open. The current round closes on January 15, 2027。学年标签在学费与奖学金页未统一写成2027/28，但招生截止与2027入学时间线已公布。",
+        "programme_start": "精确开学日未在已打开博士招生/项目页公布",
+        "application_status": "现已开放"
+      },
+      "original_conclusions_summary": {
+        "deadline": "2027-01-15 23:59 CET=2027-01-16 06:59北京时间",
+        "award": "2,002 EUR/gross/month，共48个月；covering the full cost of tuition；现行额未标明专属2027批次",
+        "tuition": "原候选写AY 2025/26，综合考试后第2–4年可见7,500 EUR，第一年解析不完整"
+      },
+      "fields": {
+        "application_deadline": {
+          "status": "通过",
+          "official_raw": "Deadline: January 15, 2027 (23:59, Central European Time). Admission decisions: April 1 - 30, 2027. CEU financial aid: available. Applicable to: all applicants.",
+          "original_datetime": "2027-01-15 23:59 Central European Time（1月为CET，UTC+1）",
+          "beijing_time": "2027-01-16 06:59 北京时间（Asia/Shanghai，UTC+8）",
+          "references_after": "推荐信须由推荐人在系统发送后提交，All recommendations must be received within one week of the time the application is received. Late references may or may not be considered.",
+          "earliest_internal_deadline": "已打开页未公布更早的单独提名截止。须在financial aid deadline（即上述博士截止）前申请并在表格Funding栏表明兴趣，才会被自动考虑奖学金。",
+          "evidence": [
+            {
+              "url": "https://www.ceu.edu/admissions/doctoral",
+              "quote": "Deadline: January 15, 2027 (23:59, Central European Time)",
+              "page_date": "HTTP Last-Modified: Wed, 18 Nov 2026 14:32:41 GMT（=2026-11-18 22:32:41 北京时间）",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "award": {
+          "status": "待核实",
+          "status_note": "现行公布额已核对；是否即为2027入学最终发放额，页上未标注批次年份，故金额本身通过、年份归属待核实。",
+          "currency": "EUR",
+          "amount": "The Doctoral Stipend is 2,002 EUR/gross/month, and it is awarded for a period of 48 months in total.",
+          "tuition_coverage": "Candidates who apply by the financial aid deadline are automatically considered for the CEU Doctoral Scholarship, covering the full cost of tuition, complete with a monthly stipend to assist with housing and living costs.",
+          "tax": "PhD stipends are taxable in Austria ... must be declared to tax authorities. PhD students must pay taxes, register with the SVS health insurance provider, and pay social security contributions to SVS. 2,002为税前，净额未公布。",
+          "late_arrival": "For students arriving after the program start date, stipends are paid out on a pro-rated basis starting from the arrival date on campus. No retroactive stipend payments are possible.",
+          "year_label_caution": "财务资助页给出2,002 EUR/gross/month，未写明专属于2027入学批次。作为2026-11-18仍公布的现行政策记录，不得改写成已确认的2027-28调整后数额。",
+          "evidence": [
+            {
+              "url": "https://www.ceu.edu/admissions/financial-aid",
+              "quote": "The Doctoral Stipend is 2,002 EUR/gross/month, and it is awarded for a period of 48 months in total.",
+              "page_date": "HTTP Last-Modified: Wed, 18 Nov 2026 14:31:59 GMT（=2026-11-18 22:31:59 北京时间）",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "international_fee_differential": {
+          "status": "修正",
+          "applies": "无英国Home/Overseas结构。Candidates from any country can apply for CEU financial aid。奖学金表述为全额学费。",
+          "tuition_table_correction": "学费表标题仍为Academic Year 2025/26。官方表格（Per Academic Year / Per Installment）：Doctoral programs (year 1) 15,000 EUR / 7,500 EUR；Doctoral programs after comprehensive examination (years 2,3, and 4) 5,000 EUR / 2,500 EUR。原候选把7,500 EUR写到“第2–4年”，实为第1年每期金额；第2–4年年费是5,000 EUR。经济学、法学、商科博士另有不同费率，不适用于本抽样社科项目默认行。",
+          "other_fees": "Austrian Student Union Fee 52.40 EUR/年（26.20/期）；Enrollment Fee 250 EUR；Registration Fee 500 EUR（博士生记入第I、II年Enrollment Fee，撤回不退）。奖学金页未逐项写明这些杂费是否全部由奖学金代付。支付日程页写的是Academic Year 2026/2027（如Enrollment Fee payable until August 1, 2026），不是2027/28入学专用日程。2027/28应付学费与支付日期：未作为该学年完整公布。",
+          "evidence": [
+            {
+              "url": "https://www.ceu.edu/admissions/tuition-fees",
+              "quote": "The tuition fees for the Academic Year 2025/26 are listed in the table below and are payable in two installments. ... Doctoral programs (year 1) | 15,000 EUR | 7,500 EUR | Doctoral programs after comprehensive examination (years 2,3, and 4) | 5,000 EUR | 2,500 EUR. ... Enrollment Fee 250 EUR ... Registration Fee 500 EUR. ... Payment Schedule for Academic Year 2026/2027 ... Enrollment Fee payable until August 1, 2026.",
+              "page_date": "HTTP Last-Modified: Wed, 18 Nov 2026 14:30:08 GMT（=2026-11-18 22:30:08 北京时间）",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "eligibility_materials_route": {
+          "status": "通过",
+          "degree": "须有相关领域学士与硕士（或等效），或入学前取得；五年制硕士可不另交学士。须累计300 ECTS，非ECTS区由招生办评估。CEU本校硕士申请博士须GPA 3.3或以上；非CEU硕士GPA由博士委员会判断。用户GPA/学历未知，不能断言合格。",
+          "english": "官方表确认：TOEFL iBT 100；TOEFL (taken after January 21, 2026) 5——此为页上正式一行，不是抓取错位，对应新量表；IELTS Academic 7.0；PTE 76；Cambridge C1/C2 190；Duolingo 130等。母语或学士/硕士全程英文授课可申请免试，招生办仍可补要成绩。",
+          "materials": "社会学/社会人类学：三封教授推荐、研究计划不超过3页（1.5倍行距，另附不超过1页书目）、英文写作样本1,500–2,000词、目的陈述最多500词。比较历史：两封推荐、研究计划1,000–1,500词（不含书目）、英文写作样本10至25页。另需学士与硕士成绩单及文凭英文件、CV。申请费EUR 30不可免。推荐信在申请提交后一周内到达。书面材料不得用生成式AI撰写实质性内容。",
+          "start_date": "精确开学日未公布。",
+          "route": "CEU网申+Funding栏表明兴趣，按截止提交即自动考虑CEU Doctoral Scholarship，无单独奖表。委员会评审并面试预选者，录取决定2027-04-01至04-30。CSC不是该奖步骤。",
+          "csc": "CEU Doctoral Scholarship不是CSC项目。已打开官方页未提及CSC回国义务。",
+          "evidence": [
+            {
+              "url": "https://www.ceu.edu/admissions/doctoral",
+              "quote": "TOEFL (taken after January 21, 2026) 5. IELTS (Academic) 7.0. ... All recommendations must be received within one week of the time the application is received.",
+              "page_date": "HTTP Last-Modified: Wed, 18 Nov 2026 14:32:41 GMT（=2026-11-18 22:32:41 北京时间）",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://www.ceu.edu/academics/degrees/phd-sociology-social-anthropology",
+              "quote": "Three letters of recommendation from professors who are familiar with your work. Research proposal (3 pages or less,1.5 spaced, not including bibliography). Academic writing sample in English (1,500-2,000 words). Statement of purpose (maximum 500 words).",
+              "page_date": "HTTP Last-Modified: Wed, 18 Nov 2026 14:34:17 GMT（=2026-11-18 22:34:17 北京时间）",
+              "retrieved_at_beijing": "2026-11-18 22:34–22:36 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        }
+      },
+      "corrections": [
+        "重要：AY 2025/26博士学费表中，综合考试后第2–4年应为每学年5,000 EUR（每期2,500 EUR），不是7,500 EUR。7,500 EUR是第1年（年费15,000 EUR）的每期金额。",
+        "博士Enrollment Fee在学费表中为250 EUR（不是将其他栏目的200 EUR套用到博士行）。",
+        "TOEFL（2026-01-21后）分数5是官方新量表行，不是抓取错位。"
+      ],
+      "residual_unverified": [
+        "2,002 EUR税前月津贴是否即为2027入学最终发放额（页上无批次年份）",
+        "2027/28学费表与支付日程尚未以该学年标题公布",
+        "奖学金是否代付Enrollment/Registration/ÖH等杂费未逐项写明",
+        "税后净额未公布",
+        "精确开学日未公布",
+        "用户学历ECTS等效、非CEU硕士GPA、语言与方向未知"
+      ],
+      "batch": 1
+    },
+    {
+      "batch": 2,
+      "stable_id": "iheid-phd-support-package-2027",
+      "verification_status": "修正",
+      "verification_status_reason": "资助包金额、剩余学费、生活成本与9月入学截止日期均与官方一致，但官方只写Deadlines expire at midnight, Geneva time (CET)，未写00:00或23:59。不得把推断的23:59写成官方时刻。",
+      "original_title": "日内瓦高级国际关系及发展学院（Geneva Graduate Institute / IHEID）博士录取配套四年资助包",
+      "institution": "Geneva Graduate Institute (IHEID)，瑞士日内瓦",
+      "is_phd_not_masters": {
+        "status": "通过",
+        "finding": "核验对象为各学科PhD（含Anthropology and Sociology、International History and Politics等）的博士录取资助包。硕士有单独晚截止，不能把硕士晚截止当作博士截止。"
+      },
+      "cycle": {
+        "status": "通过",
+        "official": "enrolment in September 2027；Applications for our next intake (September 2027) are now open。申请于10月开放。"
+      },
+      "original_conclusions_summary": {
+        "deadline": "Thursday 14 January 2027，日内瓦午夜CET；原候选按23:59 CET换算为2027-01-15 06:59北京时间（此换算不是官方时刻）",
+        "award": "CHF 20,000/year×4年，9–6月每月CHF 2,000；学费第一年CHF 3,000、此后每年CHF 1,000，并非全免"
+      },
+      "fields": {
+        "application_deadline": {
+          "status": "修正",
+          "official_raw": "Deadlines expire at midnight, Geneva time (Central European Time). Application deadline for all master and PhD programmes: Thursday, 14 January 2027. Recommendation letters must be submitted by Thursday, 21 January 2027.",
+          "official_datetime": "2027-01-14 midnight, Geneva time (CET，1月为UTC+1)。官方未写清是该日00:00还是23:59。",
+          "beijing_time": "因钟点不明，不能给出精确北京时刻，也不得把23:59 CET或00:00 CET写成官方值。若仅作非官方风险规避，按日终理解常见为2027-01-14 23:59 CET=2027-01-15 06:59北京时间；若按该日开始的午夜则为更早的00:00 CET=2027-01-14 07:00北京时间。两者都不是已公布的官方钟点。",
+          "references": "推荐信截止日期Thursday, 21 January 2027，官方写申请截止后七天，时刻同样为日内瓦午夜，同样不明钟点。少于两封推荐的卷宗不评审。",
+          "closed_path": "瑞士政府优秀奖学金路径：Thursday, 15 October 2026，官方标注This submission deadline is now closed。",
+          "phd_not_late_master": "15 March 2027与15 April 2027的晚截止明确针对硕士项目，不能用作博士机构包截止。",
+          "earliest_internal_deadline": "博士机构包路径已公布的申请截止为2027-01-14日内瓦午夜（钟点不明）。已打开页未另列更早提名截止。",
+          "evidence": [
+            {
+              "url": "https://www.graduateinstitute.ch/admissions",
+              "quote": "Deadlines expire at midnight, Geneva time (Central European Time). ... Application deadline for all master and PhD programmes: Thursday, 14 January 2027. Recommendation letters must be submitted by Thursday, 21 January 2027.",
+              "page_date": "HTTP Last-Modified: Wed, 18 Nov 2026 14:33:49 GMT（=2026-11-18 22:33:49 北京时间）",
+              "retrieved_at_beijing": "2026-11-18 22:40–22:41 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "award": {
+          "status": "通过",
+          "currency": "CHF",
+          "amount": "Scholarship: CHF 20'000 per year. Disbursement: CHF 2'000/month (September–June). Institutional support package: CHF 20,000/year for 4 years; 6 students per department, 30 students total each year.",
+          "tuition_remaining": "Students with a Financial Package from the Geneva Graduate Institute: First year: CHF 3'000; Subsequent years: CHF 1'000。并非学费全免。政府/国家基金外部包：非居民CHF 8'000/年，瑞士居民CHF 5'000/年。",
+          "coverage_caveat": "必须凸显：这是四年结构化部分资助，不是全额生活费奖学金。官方同时列出日内瓦住宿约CHF 720–1'900/月、食物CHF 400–800/月等。年津贴CHF 20,000且只在9–6月发放（10个月），可能不足以覆盖生活费加剩余学费。FAQ写所有博士录取者须有三类资助之一，但机构包名额有限。",
+          "work_rules": "第1–2年学年最多工作25%，暑期可100%；第3–4年学年最多50%（另有助教合同限制）。适用瑞士外国学生工作法规。",
+          "evidence": [
+            {
+              "url": "https://www.graduateinstitute.ch/tuition",
+              "quote": "PhD admission offers generally come with a four-year financial support package ... Scholarship: CHF 20'000 per year Disbursement: CHF 2'000/month (September–June) Tuition Fees: Year 1: CHF 3'000 Year 2, 3, 4: CHF 1'000 per year. ... Accommodation: CHF 720 – 1'900 ... Food: CHF 400 – 800.",
+              "page_date": "HTTP Last-Modified: Wed, 18 Nov 2026 14:40:13 GMT（=2026-11-18 22:40:13 北京时间）",
+              "retrieved_at_beijing": "2026-11-18 22:40–22:41 北京时间（Asia/Shanghai，UTC+8）"
+            },
+            {
+              "url": "https://www.graduateinstitute.ch/admissions",
+              "quote": "Do all PhD students receive funding? Yes. Each PhD student is admitted with one of three funding types: Institutional support package: CHF 20,000/year for 4 years; 6 students per department, 30 students total each year ...",
+              "page_date": "HTTP Last-Modified: Wed, 18 Nov 2026 14:33:49 GMT（=2026-11-18 22:33:49 北京时间）",
+              "retrieved_at_beijing": "2026-11-18 22:40–22:41 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "eligibility_materials_route": {
+          "status": "通过",
+          "nationality": "官方：Can international students apply? Yes。无把中国公民排除的条款。名额有限。用户国籍/GPA未知，不能断言个人获得该包。",
+          "english": "期望CEFR C1或更高。IELTS Academic overall 7.0、分项不低于6.5；或单次iBT TOEFL总分至少100（阅读19、听力20、口语20、写作24）。2026年1月起TOEFL另有1–6量表，院方写在新系统稳定前仍依据0–30旧量表，等价仅供参考。不接受Duolingo等。",
+          "materials": "研究计划（须另见Thesis Proposal Guide，本次未打开该指南，字数仍未核验）；写作样本；2–3名推荐人，少于两封不评审；申请费CHF 100，官方写申请在缴费后才被考虑。",
+          "route": "每周期通常申一个项目；博士在申请时进入机构包/外部资助/研究助理合同三类之一。CSC不是该包必要步骤。已打开页未将其列为CSC项目。",
+          "start": "2027年9月入学；学位须在入学截止30 September前完成，否则可能撤销录取。"
+        }
+      },
+      "corrections": [
+        "“midnight, Geneva time”不得自定为官方23:59。原候选的23:59 CET换算只能作为非官方风险规避说明，须与官方原文分开。"
+      ],
+      "residual_unverified": [
+        "日内瓦午夜的精确钟点（00:00或23:59）未公布",
+        "Thesis Proposal Guide未打开，研究计划字数未核验",
+        "院内FAQ检索到的“not fully funded”PDF本次未作为主证据全文展开",
+        "用户支付剩余学费与日内瓦生活费的能力、语言成绩、方向未知"
+      ]
+    },
+    {
+      "batch": 2,
+      "stable_id": "sciencespo-contrat-doctoral-soc-hist-2027",
+      "verification_status": "通过",
+      "verification_status_reason": "两轮截止、自2025–2026起D1–D6免学费、合同为三年劳动合同、毛薪仍标注as of 1 January 2024、社会学须预先书面导师同意等均与官方一致。€2,100不得当作已确认的2027发放额。",
+      "original_title": "Sciences Po 博士入学及contrat doctoral（社会学/历史学等，2027开学）",
+      "institution": "Sciences Po（巴黎，法国）",
+      "is_phd_not_masters": {
+        "status": "通过",
+        "finding": "对象为Admission en doctorat / doctoral contract，不是硕士。"
+      },
+      "cycle": {
+        "status": "通过",
+        "official": "rentrée 2027。官方写法：La campagne d'admission ouvrira mi-octobre pour la rentrée 2027。核验日日历已公布两轮截止，申请处于该招生周期。"
+      },
+      "original_conclusions_summary": {
+        "deadline": "2027-01-26 23:59 巴黎时间=2027-01-27 06:59北京时间；或2027-05-18 23:59巴黎时间（CEST）=2027-05-19 05:59北京时间",
+        "award": "D1–D6免学费但仍缴CVEC；合同毛薪€2,100 as of 1 January 2024，不得当作2027额"
+      },
+      "fields": {
+        "application_deadline": {
+          "status": "通过",
+          "session1": "2027-01-26 23:59 heure de Paris（1月为CET，UTC+1）= 2027-01-27 06:59 北京时间。结果约2027年3月底。申请ENS合同必须参加此轮。",
+          "session2": "2027-05-18 23:59 heure de Paris（5月为CEST，UTC+2）= 2027-05-19 05:59 北京时间。结果约2027年6月底。",
+          "auditions": "合同名额有限，仅部分“sous réserve de financement”且申请了CD的录取者可能被面试。社会学合同试听可能在2027-06-17；历史学约2027年6月初，日期待确认。",
+          "funding_confirmation": "待资助录取者须最迟在入学年1er septembre确认资助；CIFRE/COFRA为1er décembre。",
+          "earliest_internal_deadline": "本条相关已公布最早完整卷宗截止为2027-01-26 23:59 巴黎时间。",
+          "evidence": [
+            {
+              "url": "https://www.sciencespo.fr/ecole-recherche/fr/admissions/doctorat/",
+              "quote": "Afin d'être évalué, votre dossier doit être complet et validé au plus tard à la date limite de la procédure d'admission (23h59, heure de Paris) : le 26 janvier 2027 à 23h59 (heure de Paris), pour un résultat d'admission fin mars 2027. ... le 18 mai 2027 à 23h59 (heure de Paris), pour un résultat d'admission fin juin 2027.",
+              "page_date": "HTTP Last-Modified: Wed, 18 Nov 2026 11:19:34 GMT（=2026-11-18 19:19:34 北京时间）",
+              "retrieved_at_beijing": "2026-11-18 22:40–22:41 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "award": {
+          "status": "通过",
+          "currency": "EUR",
+          "tuition": "Following a decision by the FNSP Board of Directors on 21 May 2025, all PhD students enrolled at Sciences Po are exempt from tuition fees from D1 to D6, starting from the 2025–2026 academic year. CVEC仍须缴纳。",
+          "salary": "The gross monthly salary is €2,100 as of 1 January 2024 (decree of 29 August 2016 ...) for research activities only, excluding any additional duties. 合同为三年劳动合同。€2,100是2024-01-01起公布额，2027年实际毛薪未在该页更新，不得写成已确认的2027发放额。",
+          "personal_resources": "funding must not come from personal resources（个人储蓄不被接受为资助）。",
+          "evidence": [
+            {
+              "url": "https://www.sciencespo.fr/ecole-recherche/en/admissions/phd/phd-tuition-fees-funding/",
+              "quote": "all PhD students enrolled at Sciences Po are exempt from tuition fees from D1 to D6, starting from the 2025–2026 academic year. This exemption is automatic and does not apply to the Contribution de vie étudiante et de campus (CVEC). ... A doctoral contract is a three-year employment contract ... The gross monthly salary is €2,100 as of 1 January 2024 ... funding must not come from personal resources",
+              "page_date": "HTTP Last-Modified: Wed, 18 Nov 2026 11:22:44 GMT（=2026-11-18 19:22:44 北京时间）",
+              "retrieved_at_beijing": "2026-11-18 22:40–22:41 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "eligibility_materials_route": {
+          "status": "通过",
+          "supervisor": "社会学：Un accord écrit préalable d’un directeur ou d’une directrice de thèse est requis pour déposer une candidature（须预先取得书面同意，否则不能提交/不会按该学科审查）。历史学：导师支持vivement recommandé，须在表中写明意向导师，但不是强制同意信。用户方向与能否联系导师未知，不作个人匹配判断。",
+          "materials": "研究计划一般最多5,000词（不含书目）；历史学不超过3,000词，书目约20–25条。两封学术推荐。动机信。写作样本优先硕士论文。",
+          "route": "网申时回答资助问题并申请博士合同→可能先获有待资助录取→再面试有限合同。CSC不是该合同必要步骤。已打开页未写CSC回国义务。",
+          "nationality": "已打开招生/资助页未见把中国公民排除的条款；合同与名额有限，不能断言个人获得合同。"
+        }
+      },
+      "corrections": [],
+      "residual_unverified": [
+        "2027年contrat doctoral实际毛薪未公布（仅有2024-01-01起的€2,100）",
+        "历史学合同试听精确日期待官方确认",
+        "学位是否达300 ECTS或ISCED 7须按个人学历另核",
+        "用户能否在截止前取得社会学HDR导师书面同意未知"
+      ]
+    },
+    {
+      "batch": 2,
+      "stable_id": "uzh-minaret-dc7-anthropology-2027",
+      "verification_status": "通过",
+      "verification_status_reason": "截止日、36个月全职、起聘日、竞争性薪资未给数字、MSCA流动规则与主题限定均与官方一致。钟点与月薪仍未公布。",
+      "original_title": "苏黎世大学ISEK社会人类学 MINARET DC7 受薪博士（宗教/习惯法/国家法与多元法律秩序）",
+      "institution": "University of Zurich, ISEK – Social Anthropology",
+      "is_phd_not_masters": {
+        "status": "通过",
+        "finding": "官方为博士候选人全职聘用36个月，属受薪博士岗，不是硕士。"
+      },
+      "cycle": {
+        "status": "通过",
+        "official": "Start of employment: 1. August 2027；Deadline 31 January 2027。现仍在招。"
+      },
+      "original_conclusions_summary": {
+        "deadline": "31 January 2027，钟点未公布",
+        "award": "Competitive salary，月薪数字未公布；36个月全职"
+      },
+      "fields": {
+        "application_deadline": {
+          "status": "通过",
+          "official_raw": "Deadline for application: 31. January 2027",
+          "clock": "钟点未公布，不能假定23:59 CET，因此不能给出精确北京时刻。日期为2027-01-31。",
+          "start_duration": "Start of employment: 1. August 2027. Duration: 36 months of full-time employment.",
+          "earliest_internal_deadline": "已公布申请截止为2027-01-31（钟点不明）。已打开页未另列更早内部截止。",
+          "evidence": [
+            {
+              "url": "https://www.isek.uzh.ch/en/anthropology/about/vacancies.html",
+              "quote": "Deadline for application: 31. January 2027 Start of employment: 1. August 2027 Duration: 36 months of full-time employment",
+              "page_date": "HTTP Last-Modified: Wed, 18 Nov 2026 14:34:32 GMT（=2026-11-18 22:34:32 北京时间）",
+              "retrieved_at_beijing": "2026-11-18 22:40–22:41 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "award": {
+          "status": "待核实",
+          "status_note": "覆盖类型通过（受薪+田野等支持）；具体月薪与币种数字未公布，故金额待核实。",
+          "amount_official": "Competitive salary plus financial support for fieldwork periods, publications and academic conferences. 具体月薪未公布，不得编造。",
+          "type": "全职劳动合同36个月（至2027-08-01起）。较短于常见四年博士。"
+        },
+        "msca_and_eligibility": {
+          "status": "通过",
+          "msca": "Doctoral candidates cannot have been awarded a doctoral degree and/or completed more than four years of full-time equivalent research experience. They must not have resided or carried out their main activity (i.e. work, studies) in the hosting country for more than 12 months in the 3 years immediately before the recruitment date. 短名单须提交过去36个月流动声明及证明。用户近三年是否在瑞士超过12个月未知，不能代为判定。",
+          "topic": "课题限定为穆斯林多数社会中宗教/习惯法/国家法的多元法律秩序，田野或在东南亚、中东或中亚。不作个人主题匹配判断。",
+          "materials": "英文封面信最多1,000词；CV；写作样本；研究计划；学位件；两名推荐人联系方式；流动声明。按官方页提交。",
+          "language": "高水平英语及田野语言。英语为工作/申请语言。",
+          "csc": "此为MSCA Doctoral Network受薪岗，不是CSC项目。已打开页未写CSC回国义务。"
+        }
+      },
+      "corrections": [],
+      "residual_unverified": [
+        "截止钟点未公布",
+        "具体月薪未公布",
+        "用户是否满足MSCA流动规则、田野语言与主题相关性未知"
+      ]
+    },
+    {
+      "batch": 2,
+      "stable_id": "leiden-phd-indigenous-heritage-mapuche-2027",
+      "verification_status": "通过",
+      "verification_status_reason": "含当日的2027-01-01截止、西班牙语为essential、P0–P3毛薪与四年结构均与官方一致。钟点仍未公布；元旦为荷兰公共假日，提前提交只是风险规避，不是官方提前截止。",
+      "original_title": "莱顿大学考古学院受薪博士：Museums, Collections and Society – Indigenous Heritage（Mapuche史，NWO）",
+      "institution": "Leiden University，荷兰",
+      "is_phd_not_masters": {
+        "status": "通过",
+        "finding": "官方Job type: PhD positions，受薪博士岗。"
+      },
+      "cycle": {
+        "status": "通过",
+        "official": "预计2027年4/5月到岗，可略晚。现仍在招。"
+      },
+      "original_conclusions_summary": {
+        "deadline": "up to and including 1 January 2027，钟点未公布",
+        "award": "P0–P3 毛薪€3,204–€4,051/月，另有8%与8.3%津贴"
+      },
+      "fields": {
+        "application_deadline": {
+          "status": "通过",
+          "official_raw": "Applying is possible up to and including: 1 January 2027. The deadline for applications is January 1, 2027.",
+          "clock": "钟点未公布，不能假定23:59 CET，不能给出精确北京时刻。",
+          "holiday_note": "2027-01-01为荷兰公共假日。建议在2026年底前提交是风险规避，不能写成官方提前截止。",
+          "interviews": "第一轮在线面试安排在2027年1月最后一周。",
+          "start": "envisaged to start in April/May 2027, but a slightly later start date is possible.",
+          "earliest_internal_deadline": "已公布截止为含2027-01-01当日（钟点不明）。",
+          "evidence": [
+            {
+              "url": "https://careers.universiteitleiden.nl/job/PhD-Candidate-Museums%2C-Collections-and-Society-Indigenous-Heritage-%281_0-FTE%29/17018-en_US/",
+              "quote": "Applying is possible up to and including: 1 January 2027. ... The deadline for applications is January 1, 2027.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:40–22:41 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "award": {
+          "status": "通过",
+          "currency": "EUR",
+          "amount_official": "P scale: P0 to P3 = € 3204 - € 4051 gross per month（荷兰大学集体合同标准博士薪级）。另有holiday (8%) and end-of-year bonuses (8.3 %)。页称境外候选人可能符合税惠。本页未另列国际学费；荷兰受薪博士通常为雇员。合同结构：标准博士聘用（官方写集体合同P0–P3，一般为先试用再延至四年——具体1+3表述以原招聘正文为准，薪级已核）。",
+          "evidence": [
+            {
+              "url": "https://careers.universiteitleiden.nl/job/PhD-Candidate-Museums%2C-Collections-and-Society-Indigenous-Heritage-%281_0-FTE%29/17018-en_US/",
+              "quote": "The salary is the standard offered to PhD researchers in the Netherlands in accordance with the Collective Labor Agreement for Dutch Universities (P scale: P0 to P3 = € 3204 - € 4051 gross per month).",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:40–22:41 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "language_and_topic": {
+          "status": "通过",
+          "spanish": "Very good knowledge of the Spanish language is essential. Knowledge of (or willingness to learn) Mapudungun is considered an advantage. 西班牙语是已公布硬性要求，不是对用户个人是否匹配的判断；用户西语能力未知。",
+          "topic": "NWO VICI项目中Mapuche史工作包，涉及历史、博物馆收藏与人类学方法，须愿与智利Mapuche社区合作。主题限定。鼓励原住民申请。不作个人匹配断言。",
+          "materials": "动机信最多2页（含初步想法）；CV；两名推荐人联系方式（此阶段不要求推荐信）；经SuccessFactors提交一个PDF。",
+          "csc": "此为荷兰大学受薪岗位，不是CSC项目。已打开页未写CSC回国义务。"
+        }
+      },
+      "corrections": [],
+      "residual_unverified": [
+        "截止钟点未公布",
+        "合同是否明确写为先1年再延3年，以原页聘用条款全文为准（薪级已核）",
+        "用户西语水平、南美原住民史/遗产取向未知"
+      ]
+    },
+    {
+      "batch": 2,
+      "stable_id": "vu-phd-early-modern-religious-debates-2027",
+      "verification_status": "通过",
+      "verification_status_reason": "截止Sluit op 27-11-2026、起聘2027-04-01、毛薪与荷兰语硬门槛均与官方一致。钟点未公布。荷兰语与早期近代荷兰史是已公布资格条件，不是对用户的个人匹配判断。",
+      "original_title": "阿姆斯特丹自由大学受薪博士：早期近代宗教辩论与公共领域（荷兰语史料，NWO项目）",
+      "institution": "Vrije Universiteit Amsterdam（VU）",
+      "is_phd_not_masters": {
+        "status": "通过",
+        "finding": "官方为PhD position / salaried PhD，不是硕士。"
+      },
+      "cycle": {
+        "status": "通过",
+        "official": "The starting date of the contract will be April 1, 2027。招聘发布28-10-2026，截止2026-11-27，核验日仍开放。"
+      },
+      "original_conclusions_summary": {
+        "deadline": "Sluit op 27-11-2026，钟点未公布；本批最紧急",
+        "award": "毛薪€3,204，第四年最高€4,051；先18个月可延至四年"
+      },
+      "fields": {
+        "application_deadline": {
+          "status": "通过",
+          "official_raw": "Sluit op 27-11-2026",
+          "clock": "钟点未公布，不能假定23:59 CET，不能给出精确北京时刻。日期为2026-11-27。距核验日仅约9天。",
+          "interview": "Job-interviews will take place on Wednesday 16. December（未写年份；按2026-10-28发布、2026-11-27截止的招聘周期，合理理解是2026-12-16，但这不是页上写死的年份，须标明推断）。",
+          "start": "The starting date of the contract will be April 1, 2027. 先18个月，若前景充足可延至四年。",
+          "earliest_internal_deadline": "本批已公布的最早岗位截止即为2026-11-27（钟点不明）。不接受电子邮件投递。",
+          "evidence": [
+            {
+              "url": "https://werkenbij.vu.nl/vacatures/phd-position-early-modern-religious-debates-and-the-public-sphere-amsterdam-1353618",
+              "quote": "PhD Sluit op 27-11-2026 ... The starting date of the contract will be April 1, 2027. ... Job-interviews will take place on Wednesday 16. December ... Applications received by e-mail will not be considered.",
+              "page_date": "HTTP Last-Modified: Wed, 18 Nov 2026 14:40:22 GMT（=2026-11-18 22:40:22 北京时间）",
+              "retrieved_at_beijing": "2026-11-18 22:40–22:41 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "award": {
+          "status": "通过",
+          "currency": "EUR",
+          "amount_official": "a salary of € 3.204,00 (PhD) and maximum € 4.051,00 (PhD) gross per month in the fourth year, for a full-time employment。另有假期与年终津贴、ABP养老金。全职38小时/周。",
+          "evidence": [
+            {
+              "url": "https://werkenbij.vu.nl/vacatures/phd-position-early-modern-religious-debates-and-the-public-sphere-amsterdam-1353618",
+              "quote": "a salary of € 3.204,00 (PhD) and maximum € 4.051,00 (PhD) gross per month in the fourth year, for a full-time employment an employment contract of initially 18 months.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:40–22:41 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "language_hard_requirement": {
+          "status": "通过",
+          "official": "Excellent command of Dutch and English. 另要求 thorough knowledge of early modern Dutch history，以及阅读分析与项目相关早期近代史料的能力。项目本身研究early modern religious debates in the Dutch language。这是已公布的硬性资格与课题限定，不是对用户个人是否适合的判断。用户语言与史学训练未知，不能断言合格或不合格。",
+          "materials": "CV、求职信、如有则硕士论文；须经官方系统投递，电邮无效。",
+          "csc": "荷兰大学受薪岗，不是CSC项目。已打开页未写CSC回国义务。"
+        }
+      },
+      "corrections": [],
+      "residual_unverified": [
+        "截止与面试的精确钟点/面试年份未在页上写死",
+        "用户荷兰语、早期近代荷兰史与史料能力未知"
+      ]
+    },
+    {
+      "batch": 2,
+      "stable_id": "aarhus-locis-phd-fellowships-2027",
+      "verification_status": "通过",
+      "verification_status_reason": "两项全额5+3职位、2027-04-01 23:59丹麦时间、2027-09-01入学、申请前应联系Raja、2027基础月薪未公布等均与官方一致。4月1日为CEST的换算已复核。",
+      "original_title": "奥胡斯大学艺术学院两项全额资助5+3博士职位：Locally Crafted Empires（西亚历代帝制下的地方肖像文化）",
+      "institution": "Aarhus University, Faculty of Arts，丹麦",
+      "is_phd_not_masters": {
+        "status": "通过",
+        "finding": "two fully funded PhD fellowships，5+3博士职位，入学后最多三年，不是硕士奖。"
+      },
+      "cycle": {
+        "status": "通过",
+        "official": "available as of 1 September 2027 for a period of up to three years (5+3)。现已开放号召。页面Revised 06.10.2026。"
+      },
+      "original_conclusions_summary": {
+        "deadline": "1 April 2027 at 23.59 Danish time (CET/CEST)=2027-04-02 05:59北京时间",
+        "award": "fully funded；薪级4–8；特殊津贴DKK 18,373为2025-04-01水平；2027基础月薪未公布"
+      },
+      "fields": {
+        "application_deadline": {
+          "status": "通过",
+          "official_raw": "Deadline for applications: 1 April 2027 at 23.59 Danish time (CET/CEST). Reference number: 2027-1",
+          "timezone": "2027-04-01已过3月最后一个周日（2027-03-28）夏令时开始，应为CEST（UTC+2）。",
+          "beijing_time": "2027-04-01 23:59 CEST = 2027-04-02 05:59 北京时间（Asia/Shanghai，UTC+8）",
+          "contact_before": "Candidates should contact Professor Rubina Raja before applying to discuss the projects to be undertaken. 这是官方建议/要求，不是代用户联系。本次未联系学校。",
+          "degree_by": "5+3须不晚于31 August 2027完成等同丹麦硕士的学位。",
+          "earliest_internal_deadline": "已公布截止为2027-04-01 23:59丹麦时间。该号召清单未要求推荐信。",
+          "evidence": [
+            {
+              "url": "https://phd.arts.au.dk/applicants/open-and-specific-calls/phd-call-2027-1",
+              "quote": "Deadline for applications: 1 April 2027 at 23.59 Danish time (CET/CEST). ... Candidates should contact Professor Rubina Raja before applying to discuss the projects to be undertaken.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:40–22:41 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "award": {
+          "status": "待核实",
+          "status_note": "“two fully funded PhD fellowships”与集体合同、薪级4–8已核；2027年基础月薪克朗数字未公布，特殊津贴为2025-04-01水平，故发放额年份归属待核实。",
+          "official": "terms and conditions ... governed by the collective agreement for academics employed by the Danish state. ... placed in salary group 4-8 ... The special supplement (PhD bonus) corresponds to DKK 18,373 per year (1 April 2025 level)。另有18.07%养老金。薪酬表标题为Salary levels pr. 1 April 2025，页上未见2027基础月薪表，不得编造2027月薪。",
+          "duration": "自2027-09-01起至多三年。",
+          "evidence": [
+            {
+              "url": "https://phd.arts.au.dk/4-4-part-b-and-5-3/salary-and-employment",
+              "quote": "The special supplement (PhD bonus) corresponds to DKK 18,373 per year (1 April 2025 level) ... Salary levels pr. 1 April 2025",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:40–22:41 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "eligibility_materials": {
+          "status": "通过",
+          "topic": "西亚历代帝制下地方肖像（前1–后5世纪），要求古典考古（东地中海/近东，尤其图像/雕塑）专长。主题极窄。不作个人匹配判断。",
+          "english": "comparable to a minimum of TOEFL 83 or IELTS 6.5。国际申请人可申请。",
+          "materials": "动机信最多2,400字符（一页）；CV；项目说明最多12,000字符（含空格，不含书目与时间表）；书目与指定时间表；学位证明。须经奥胡斯网申。该号召清单未要求推荐信。",
+          "csc": "丹麦大学受薪博士，不是CSC项目。已打开页未写CSC回国义务。"
+        }
+      },
+      "corrections": [],
+      "residual_unverified": [
+        "2027年基础月薪克朗数字未公布",
+        "用户是否具备该极窄古典考古专长未知"
+      ]
+    },
+    {
+      "batch": 2,
+      "stable_id": "lund-minaret-soclaw-islamic-ethics-ca-2027",
+      "verification_status": "通过",
+      "verification_status_reason": "2027-01-31截止（钟点未公布）、2027-09-01起四年全职、MSCA流动规则、月薪未公布具体克朗等均与官方一致。同系另一岗已确认存在但不并入本条细节。",
+      "original_title": "隆德大学法社会学受薪博士：中亚伊斯兰伦理与治理改革（MINARET，2027-09-01起四年）",
+      "institution": "Lund University, Sociology of Law，瑞典",
+      "is_phd_not_masters": {
+        "status": "通过",
+        "finding": "PhD in Sociology of Law受薪博士，240学分四年项目，不是硕士。"
+      },
+      "cycle": {
+        "status": "通过",
+        "official": "First day of employment 2027-09-01；Published 16.Oct.2026；Last application date 31.Jan.2027。现仍在招。"
+      },
+      "original_conclusions_summary": {
+        "deadline": "31.Jan.2027，钟点未公布",
+        "award": "Monthly salary / Competitive employment package，具体克朗未公布；四年全职"
+      },
+      "fields": {
+        "application_deadline": {
+          "status": "通过",
+          "official_raw": "Last application date 31.Jan.2027",
+          "clock": "钟点未公布，不能假定23:59 CET，不能给出精确北京时刻。日期为2027-01-31。",
+          "start": "The position is full-time (100%) for four years, starting in September 2027. First day of employment 2027-09-01. 须在隆德驻校。",
+          "related_vacancy_not_merged": "同系同截止另有官方岗 PhD in Sociology of Law – Women's Legal Agency in Central Asia and MENA（Varbi jobID 980150，Last application date 31.Jan.2027）。本次仅确认该页存在与截止日，不把其细节并入本条。",
+          "earliest_internal_deadline": "本条已公布截止为2027-01-31（钟点不明）。",
+          "evidence": [
+            {
+              "url": "https://lu.varbi.com/en/what:job/jobID:978489/",
+              "quote": "The position is full-time (100%) for four years, starting in September 2027. ... First day of employment 2027-09-01 Salary Monthly salary ... Last application date 31.Jan.2027",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:40–22:41 北京时间（Asia/Shanghai，UTC+8）"
+            }
+          ]
+        },
+        "award": {
+          "status": "待核实",
+          "status_note": "四年全职受薪已核；具体月薪克朗未公布。",
+          "official": "Competitive employment package. Salary: Monthly salary. 币种未在该行写明（瑞典岗位通常为SEK，但不能把未写的币种写成官方数字）。教学行政最多20%。须中亚田野及一次学术、一次非学术海外借调。",
+          "language_at_work": "The working language is primarily English, but you are expected to acquire basic knowledge of Swedish during the employment period."
+        },
+        "msca_and_eligibility": {
+          "status": "通过",
+          "msca": "Doctoral candidates cannot have been awarded a doctoral degree and/or completed more than four years of full-time equivalent research experience. ... must not have resided or carried out their main activity (i.e. work, studies) in the hosting country for more than 12 months in the 3 years immediately before the recruitment date. 用户近三年是否在瑞典超过12个月未知，不能代为判定。",
+          "degree": "至少240学分、其中第二阶段至少60；高级阶段法社会学或相关至少须符合页上学分/论文要求。须在录用决定前取得相应资格。",
+          "materials": "英文封面信最多1,000词；英文CV；研究计划不超过13,000字符且须紧扣该课题；论文/写作样本；两名推荐人联系方式；英文学位件。",
+          "topic": "乌兹别克与哈萨克治理改革、伊斯兰伦理，主题限定。不作个人匹配判断。",
+          "csc": "MSCA Doctoral Network受薪岗，不是CSC项目。已打开页未写CSC回国义务。"
+        }
+      },
+      "corrections": [],
+      "residual_unverified": [
+        "截止钟点未公布",
+        "具体月薪克朗未公布",
+        "用户是否满足MSCA流动规则与法社会学学分结构未知"
+      ]
+    },
+    {
+      "batch": 2,
+      "stable_id": "imprs-spce-cologne-2027-cycle-announced",
+      "verification_status": "修正",
+      "verification_status_reason": "原候选仅依据号召页记录“2026年12月开始接受申请、截止未公布”，且申请人说明页当时打开失败。本次号召页仍无法取得正文（SSL/HTTP 500），但申请人说明页已成功打开，补充了申请期、2027-10-01开学等官方表述；精确开放/截止仍写exact dates to be announced，面试年份存在2026与2027周期不一致，薪资仍未公布。",
+      "original_title": "MPIfG / IMPRS-SPCE（科隆）经济的社会与政治构成博士项目——已宣布下轮将于2026年12月开始接受申请",
+      "institution": "International Max Planck Research School on the Social and Political Constitution of the Economy（科隆 / 杜伊斯堡-埃森）",
+      "access_limitation": "号召页 https://imprs.mpifg.de/99889/calls-for-applications 本次curl因SSL证书链无法验证失败，WebFetch返回HTTP 500，未能取得该页正文。申请人说明页此前雷达遇到HTTP 500，本次经同一官方URL的公开抓取成功读取。未绕过登录或封禁，未忽略证书警告去抓取号召页。",
+      "is_phd_not_masters": {
+        "status": "通过",
+        "finding": "结构化博士项目；学校本身不授学位，通常向科隆大学或杜伊斯堡-埃森大学提交博士论文。"
+      },
+      "cycle": {
+        "status": "修正",
+        "official": "申请人说明页现写：The program start date is October 1, 2027。申请期 Mid-December, 2026 – February 15, 2027（exact dates to be announced）。不得把未最终锁定的截止日期写成已确认硬截止。"
+      },
+      "original_conclusions_summary": {
+        "deadline": "原结论：未公布，须待公告",
+        "award": "未公布，不得用往年数字填入"
+      },
+      "fields": {
+        "application_deadline": {
+          "status": "待核实",
+          "official_raw": "Mid-December, 2026 – February 15, 2027: Application period (exact dates to be announced).",
+          "cannot_lock": "官方同时给出2月15日并写exact dates to be announced，不能把2027-02-15写成已最终锁定的官方截止，也仍不能编造开放日的精确日历日。",
+          "interviews_conflict": "同一页写 Late March/Early April 2026: Interviews will be conducted。若申请期始于2026年12月中、开学为2027-10-01，则面试写2026年春季与该轮时间线冲突。不得擅自改写成2027；应公开标为官方文本不一致，待后续公告。",
+          "start": "October 1: The program start date is October 1, 2027. Notification of acceptance is in May，学位须在入学年9月底前取得。",
+          "earliest_internal_deadline": "精确开放日与截止日仍待宣布。可关注2026年12月中至2027年2月中的申请窗口，但不能把窗口端点当作已锁定截止。",
+          "evidence": [
+            {
+              "url": "https://imprs.mpifg.de/12581/information-for-applicants",
+              "quote": "Mid-December, 2026 – February 15, 2027: Application period (exact dates to be announced). Late March/Early April 2026: Interviews will be conducted. October 1: The program start date is October 1, 2027.",
+              "page_date": "未公布Last-Modified；仅记录获取时间",
+              "retrieved_at_beijing": "2026-11-18 22:41 北京时间（Asia/Shanghai，UTC+8）",
+              "limitation_note": "号召页 https://imprs.mpifg.de/99889/calls-for-applications 本次curl因SSL证书链无法验证失败，WebFetch返回HTTP 500，未能取得该页正文。申请人说明页此前雷达遇到HTTP 500，本次经同一官方URL的公开抓取成功读取。未绕过登录或封禁，未忽略证书警告去抓取号召页。"
+            }
+          ]
+        },
+        "award": {
+          "status": "待核实",
+          "finding": "本次成功打开的申请人说明页仍未公布薪资、奖学金或学费数字。不得用往年IMPRS或马普博士合同数字填入。"
+        },
+        "eligibility_materials": {
+          "status": "通过",
+          "status_note": "原则已在申请人说明页公布；完整号召细节因号召页无法打开仍不完整。",
+          "eligibility": "须有相关学科（社会学、政治学、经济学或相关）硕士或同等学历，学业优秀，能用英语从事学术工作。每年至多录取约八人。须在研究计划中写明兴趣并指认一位项目教师作导师，但为公平起见不与潜在申请者预先讨论题目或指导，请勿直接联系教师请求指导。",
+          "language": "英语能力是录取前提。论文可用德文或英文，但须能在英语场合报告并修英语课程。强烈建议国际学生学习德语，并非已公布的硬性录取门槛。",
+          "csc": "已打开页未将其列为CSC项目，也未写回国义务。薪资条款未公布。"
+        }
+      },
+      "corrections": [
+        "申请人说明页本次已打开，不再只能写“仅宣布12月开始、完全无时间信息”。但仍须保留：精确日期待宣布；不得把2月15日写成已锁定截止。",
+        "同一页面试时间写Late March/Early April 2026，与2026年12月–2027年2月申请期及2027-10-01开学不一致，须标冲突，不能自行改正为2027。"
+      ],
+      "residual_unverified": [
+        "精确申请开放日与截止日待宣布",
+        "面试年份官方文本冲突未消",
+        "薪资/合同条款未公布",
+        "号召页本次未能打开，完整本轮名额与材料清单可能仍不完整"
+      ]
+    }
+  ],
+  "important_corrections": [
+    {
+      "id": "ceu-doctoral-scholarship-2027-socanth-history",
+      "severity": "高",
+      "summary": "CEU学费表第2–4年年费应为5,000 EUR，不是原候选的7,500 EUR。"
+    },
+    {
+      "id": "eui-phd-2027-28-hec-sps-maeci",
+      "severity": "高",
+      "summary": "EUI截止时刻14:00 CET与23:59 CET的官方冲突经独立重开后仍然存在，不能单方面裁定。"
+    },
+    {
+      "id": "lse-phd-studentships-2027-28",
+      "severity": "高",
+      "summary": "LSE社会学页3 December 2026与3 December 2027冲突经独立重开后仍然存在；钟点仍未公布。"
+    },
+    {
+      "id": "oxford-clarendon-dphil-ssh-2027-28",
+      "severity": "中",
+      "summary": "牛津fee liability现已核验：SSD/HUM标准9学期，2027/28大学continuation每学期£680，人文与社科无第四年自动豁免。"
+    },
+    {
+      "id": "gates-cambridge-phd-international-2027-28",
+      "severity": "低",
+      "summary": "机票原文为开学与结束各一张单程经济舱；Gates开放日写9月11日，剑桥课程页写9月9日，应并列。"
+    },
+    {
+      "id": "iheid-phd-support-package-2027",
+      "batch": 2,
+      "severity": "高",
+      "summary": "IHEID只写日内瓦午夜，不得把23:59写成官方钟点；CHF 20,000为部分资助，学费余额仍在。"
+    },
+    {
+      "id": "sciencespo-contrat-doctoral-soc-hist-2027",
+      "batch": 2,
+      "severity": "中",
+      "summary": "确认合同毛薪仍为as of 1 January 2024的€2,100，不得当作2027发放额。"
+    },
+    {
+      "id": "imprs-spce-cologne-2027-cycle-announced",
+      "batch": 2,
+      "severity": "中",
+      "summary": "申请人说明页已打开：申请期写2026年12月中至2027-02-15但exact dates TBA；开学2027-10-01；面试写2026年春与周期冲突。号召页仍未打开。"
+    },
+    {
+      "id": "vu-phd-early-modern-religious-debates-2027",
+      "batch": 2,
+      "severity": "高",
+      "summary": "确认截止2026-11-27（钟点未公布）及Excellent command of Dutch and English为已公布硬门槛。"
+    },
+    {
+      "id": "leiden-phd-indigenous-heritage-mapuche-2027",
+      "batch": 2,
+      "severity": "中",
+      "summary": "确认含2027-01-01当日截止（钟点未公布）及西班牙语essential。"
+    }
+  ],
+  "residual_unverified_global": [
+    "EUI 14:00 vs 23:59 CET；LSE社会学2026-12-03 vs 2027-12-03及全部LSE钟点",
+    "Gates/LSE 2027-28生活费或津贴未公布；Clarendon 2027-28生活费仅有UKRI原则与2025-26举例；CEU 2,002未标2027批次",
+    "LSE“full fees”国际生法律释义；人类学第五年覆盖",
+    "CEU 2027/28学费与杂费是否由奖学金完全覆盖",
+    "各校CSC联合项目回国义务未打开CSC官方页",
+    "用户国籍细节、GPA、学历、语言、研究方向全部未知，不能判断个人合格或匹配",
+    "IHEID midnight钟点不明；VU/莱顿/UZH/隆德截止钟点未公布",
+    "Sciences Po 2027合同毛薪、UZH/隆德/奥胡斯2027基础月薪或未公布月薪",
+    "IMPRS精确日程与薪资；号召页未打开；面试年份文本冲突",
+    "MSCA流动规则须按申请人近三年居住/活动核实，本次不作个人判定",
+    "IHEID研究计划字数指南未打开",
+    "各校CSC回国义务未打开国家留学基金委官方页",
+    "用户国籍细节、GPA、学历、语言、研究方向全部未知"
+  ],
+  "comparison_disclaimer": "本次不编排名、不给录取或获资助概率，不作个人匹配判断。英国国际学费差额与IHEID剩余学费/部分资助必须单独凸显。"
+}

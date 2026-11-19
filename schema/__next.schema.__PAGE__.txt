@@ -1,0 +1,37 @@
+1:"$Sreact.fragment"
+2:"/phd-funding/_next/static/chunks/1je_bqkapjvmn.js"
+3:"/phd-funding/_next/static/chunks/19loop5ypvp5u.js"
+4:"/phd-funding/_next/static/chunks/3awj6t0m-ti9h.js"
+5:"WorkspaceProvider"
+6:I[351,["$2","$3","$4"],"$5"]
+7:"$Sreact.suspense"
+8:I[71939,["$2","$3","$4"],"SiteHeader"]
+9:I[39756,["$2","$3","$4"],"default"]
+a:"/phd-funding/_next/static/chunks/2j7udhiinbd8b.js"
+b:I[8821,["$2","$3","$4","$a"],"default"]
+c:I[37457,["$2","$3","$4"],"default"]
+d:I[22016,["$2","$3","$4"],""]
+e:I[71939,["$2","$3","$4"],"SiteFooter"]
+17:"ViewportBoundary"
+18:I[97367,["$2","$3","$4"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$2","$3","$4"],"$19"]
+1b:I[27201,["$2","$3","$4"],"IconMark"]
+:HL["/phd-funding/_next/static/chunks/1ck5ek3d7997-.css","style"]
+10:X
+13:X
+13:C
+14:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-3xl px-5 py-10 md:px-10 md:py-14","children":[["$","p",null,{"className":"text-xs tracking-[0.18em] text-muted-foreground","children":"格式"}],["$","h1",null,{"className":"font-display mt-3 text-4xl leading-tight md:text-6xl","children":"数据集约定"}],["$","p",null,{"className":"mt-5 leading-7 text-muted-foreground","children":"正式卷宗只接受 kind 为 phoebe-phd-public、schemaVersion 为 1，且 exampleOnly 为 false 的 JSON。下面的示例文件是虚构的，导入会被拒绝。"}],["$","p",null,{"className":"mt-4","children":["$","a",null,{"className":"underline-offset-4 hover:underline","href":"/phd-funding/examples/dataset.example.json","children":"下载格式示例 JSON"}]}],["$","section",null,{"className":"mt-10 border-t border-border pt-6","children":[["$","h2",null,{"className":"font-display text-3xl","children":"一条机会要有稳定编号"}],["$","p",null,{"className":"mt-3 leading-7 text-muted-foreground","children":"id 用小写字母、数字和连字符。以后更新数据集时编号不变，本机的星标和笔记才能对上。编号消失后，笔记仍留在“已保存”，并标明当前数据集里没有这条。"}]]}],["$","section",null,{"className":"mt-8 border-t border-border pt-6","children":[["$","h2",null,{"className":"font-display text-3xl","children":"必须能区分的事实"}],["$","ul",null,{"className":"mt-4 grid gap-3 text-sm leading-6","children":[["$","li",null,{"children":"国家、学科、开放 / 未公布 / 已截止。"}],["$","li",null,{"children":"国际学生：接受、不接受或未说明。中国申请人：明确包括、只见到国家留学基金委渠道、不包含或未说明。"}],["$","li",null,{"children":"资助覆盖：全额、部分、带薪职位或未说明。金额带 ISO 货币和单位，程序不换汇。"}],["$","li",null,{"children":"海外学费差额可以单列。没有单列且两边同币种时，页面只做减法并写明未计杂费。币种不同则不计算。"}],["$","li",null,{"children":"每个日期有角色：申请开放、可行动的内部期限、最终外部截止，或其他。有时刻就必须给 IANA 时区，不能省略后当成 UTC。只有日期则不换算到上海。"}],["$","li",null,{"children":"入学时间、资助起止按原文，不当成申请截止。"}],["$","li",null,{"children":"申请路线按 order 排列，步骤类型包括联系导师、入学申请、校内提名、资助申请、国家留学基金委或其他。"}],["$","li",null,{"children":"材料分学位、语言、研究计划、写作样本、推荐人。空着表示数据未说明。"}],["$","li",null,{"children":"学校声誉和学科声誉分开。有序位数字时必须写明数字的含义。没有序位就不参与排序。"}],["$","li",null,{"children":"至少一条来源网址，以及核验日期或明确的未核验状态。不确定之处用 uncertaintyFlags 和 uncertaintyNotes。"}]]}]]}],["$","section",null,{"className":"mt-8 border-t border-border pt-6","children":[["$","h2",null,{"className":"font-display text-3xl","children":"明确不收的字段"}],["$","p",null,{"className":"mt-3 leading-7 text-muted-foreground","children":"不要写录取概率、国籍、绩点或语言成绩。多出来的键会被拒绝，以免一份看起来精确的数字混进卷宗。"}]]}],["$","section",null,{"className":"mt-8 border-t border-border pt-6","children":[["$","h2",null,{"className":"font-display text-3xl","children":"私人备份是另一个文件"}],["$","p",null,{"className":"mt-3 leading-7 text-muted-foreground","children":"kind 为 phoebe-phd-private，app 为 phoebe-phd-funding。记录以机会编号为键，内有星标、个人优先级、阶段、笔记和带日期的待办。它不包含资助正文。合并时星标取并集，笔记两边都保留，同一待办以较新的文字为准，但任何一边已完成就保持完成。"}]]}]]}],null,"$L15"]}],"p":"$@16","v":null,"s":"$10"}}]]
+11:[["children",{"s":"schema","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"p":"$@12","v":"$13","s":"$10"},"c":"$Q14"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/phd-funding/_next/static/chunks/1ck5ek3d7997-.css","precedence":"next"}],["$","script","script-0",{"src":"/phd-funding/_next/static/chunks/1je_bqkapjvmn.js","async":true}],["$","script","script-1",{"src":"/phd-funding/_next/static/chunks/19loop5ypvp5u.js","async":true}],["$","script","script-2",{"src":"/phd-funding/_next/static/chunks/3awj6t0m-ti9h.js","async":true}]],["$","html",null,{"lang":"zh-CN","className":"dark h-full","children":["$","body",null,{"className":"flex min-h-full flex-col","children":[["$","a",null,{"className":"skip-link","href":"#main","children":"跳到内容"}],["$","$L6",null,{"children":[["$","$7",null,{"fallback":["$","header",null,{"className":"border-b border-border px-5 py-4 text-sm text-muted-foreground","children":"Phoebe · 申请卷宗"}],"children":["$","$L8",null,{}]}],["$","main",null,{"id":"main","className":"flex-1","children":["$","$L9",null,{"parallelRouterKey":"children","error":"$b","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/phd-funding/_next/static/chunks/2j7udhiinbd8b.js","async":true}]],"template":["$","$Lc",null,{}],"notFound":[["$","div",null,{"className":"mx-auto max-w-3xl px-5 py-16","children":[["$","h1",null,{"className":"font-display text-4xl","children":"没有这一页"}],["$","p",null,{"className":"mt-4 text-muted-foreground","children":["$","$Ld",null,{"href":"/","className":"underline-offset-4 hover:underline","children":"回到机会列表"}]}]]}],[]]}]}],["$","$Le",null,{}]]}]]}]}]]}],"p":"$@f","v":null,"s":"$10"},"c":"$Q11"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0c0c0b"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"数据格式 · Phoebe"}],["$","meta","1",{"name":"description","content":"英伦与欧陆人类学、社会学、历史学及相关社会科学博士资助的个人申请工作台。已核实数据导入前不陈列机会。"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/phd-funding/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1b","4",{}]]}]}],null]}],null]}],"p":"$@1c","v":null,"s":"$10"}},"a":"$@1d","u":"$@1e","b":"PNt87rpOBU1pA9VzhhnPi"}
+1f:I[97367,["$2","$3","$4"],"OutletBoundary"]
+15:["$","$L1f",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+10:300
+20:null
+1e:true
+10:C
+1d:0
+12:"$undefined"
+f:"$undefined"
+1c:"$undefined"
+16:"$undefined"

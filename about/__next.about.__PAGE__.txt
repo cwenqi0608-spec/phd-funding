@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:"/phd-funding/_next/static/chunks/1je_bqkapjvmn.js"
+3:"/phd-funding/_next/static/chunks/19loop5ypvp5u.js"
+4:"/phd-funding/_next/static/chunks/3awj6t0m-ti9h.js"
+5:"WorkspaceProvider"
+6:I[351,["$2","$3","$4"],"$5"]
+7:"$Sreact.suspense"
+8:I[71939,["$2","$3","$4"],"SiteHeader"]
+9:I[39756,["$2","$3","$4"],"default"]
+a:"/phd-funding/_next/static/chunks/2j7udhiinbd8b.js"
+b:I[8821,["$2","$3","$4","$a"],"default"]
+c:I[37457,["$2","$3","$4"],"default"]
+d:I[22016,["$2","$3","$4"],""]
+e:I[71939,["$2","$3","$4"],"SiteFooter"]
+15:I[97367,["$2","$3","$4"],"OutletBoundary"]
+18:"ViewportBoundary"
+19:I[97367,["$2","$3","$4"],"$18"]
+1a:"MetadataBoundary"
+1b:I[97367,["$2","$3","$4"],"$1a"]
+1c:I[27201,["$2","$3","$4"],"IconMark"]
+:HL["/phd-funding/_next/static/chunks/1ck5ek3d7997-.css","style"]
+10:X
+13:X
+13:C
+14:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-3xl px-5 py-10 md:px-10 md:py-14","children":[["$","p",null,{"className":"text-xs tracking-[0.18em] text-muted-foreground","children":"关于"}],["$","h1",null,{"className":"font-display mt-3 text-4xl leading-tight md:text-6xl","children":"给申请过程用的卷宗"}],["$","div",null,{"className":"mt-8 grid gap-8 text-base leading-8","children":[["$","p",null,{"children":"范围是英国和欧洲大陆的人类学、社会学、历史学及相关社会科学博士路径。现在的列表是 2026-11-18（Asia/Shanghai）独立核验的 13 项：8 项通过，3 项修正，2 项待核实。它用来推进你自己的申请，不是对外发布的名录。"}],["$","p",null,{"children":"通过只表示所查字段与当天见到的来源一致。它不等于你个人符合资格，也不等于资助已确认为全额。EUI 的 14:00 与 23:59，以及 LSE 社会学的 2026 与 2027，都并列保留，不锁定，也不倒计时。请以官方来源为准。"}],["$","p",null,{"children":"排序把几件事分开：最早可行动的期限、最终外部截止、资助覆盖类别、你勾选的学科和资格是否被数据写明，以及数据集若提供了带含义的声誉序位。这些不会合成一个分数，也没有录取概率。"}],["$","p",null,{"children":"这里不采集国籍、公民身份、绩点或语言成绩，因此任何“下一步”都不判断你是否符合资格。联系导师和提交申请都要你自己做。"}],["$","p",null,{"children":"开发预览只服务于当前这台环境。源码留在这次的 Origin 项目里，没有镜像到 GitHub。还没有进行需要选择仓库名称、可见性或付费方案的发布。"}]]}]]}],null,["$","$L15",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":"$@17","v":null,"s":"$10"}}]]
+11:[["children",{"s":"about","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"p":"$@12","v":"$13","s":"$10"},"c":"$Q14"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/phd-funding/_next/static/chunks/1ck5ek3d7997-.css","precedence":"next"}],["$","script","script-0",{"src":"/phd-funding/_next/static/chunks/1je_bqkapjvmn.js","async":true}],["$","script","script-1",{"src":"/phd-funding/_next/static/chunks/19loop5ypvp5u.js","async":true}],["$","script","script-2",{"src":"/phd-funding/_next/static/chunks/3awj6t0m-ti9h.js","async":true}]],["$","html",null,{"lang":"zh-CN","className":"dark h-full","children":["$","body",null,{"className":"flex min-h-full flex-col","children":[["$","a",null,{"className":"skip-link","href":"#main","children":"跳到内容"}],["$","$L6",null,{"children":[["$","$7",null,{"fallback":["$","header",null,{"className":"border-b border-border px-5 py-4 text-sm text-muted-foreground","children":"Phoebe · 申请卷宗"}],"children":["$","$L8",null,{}]}],["$","main",null,{"id":"main","className":"flex-1","children":["$","$L9",null,{"parallelRouterKey":"children","error":"$b","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/phd-funding/_next/static/chunks/2j7udhiinbd8b.js","async":true}]],"template":["$","$Lc",null,{}],"notFound":[["$","div",null,{"className":"mx-auto max-w-3xl px-5 py-16","children":[["$","h1",null,{"className":"font-display text-4xl","children":"没有这一页"}],["$","p",null,{"className":"mt-4 text-muted-foreground","children":["$","$Ld",null,{"href":"/","className":"underline-offset-4 hover:underline","children":"回到机会列表"}]}]]}],[]]}]}],["$","$Le",null,{}]]}]]}]}]]}],"p":"$@f","v":null,"s":"$10"},"c":"$Q11"},"h":{"r":["$","$1","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0c0c0b"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"关于 · Phoebe"}],["$","meta","1",{"name":"description","content":"英伦与欧陆人类学、社会学、历史学及相关社会科学博士资助的个人申请工作台。已核实数据导入前不陈列机会。"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/phd-funding/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1c","4",{}]]}]}],null]}],null]}],"p":"$@1d","v":null,"s":"$10"}},"a":"$@1e","u":"$@1f","b":"PNt87rpOBU1pA9VzhhnPi"}
+16:null
+10:300
+1f:true
+10:C
+1e:0
+12:"$undefined"
+f:"$undefined"
+1d:"$undefined"
+17:"$undefined"

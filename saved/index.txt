@@ -1,0 +1,34 @@
+1:"$Sreact.fragment"
+2:"/phd-funding/_next/static/chunks/1je_bqkapjvmn.js"
+3:"/phd-funding/_next/static/chunks/19loop5ypvp5u.js"
+4:"/phd-funding/_next/static/chunks/3awj6t0m-ti9h.js"
+5:"WorkspaceProvider"
+6:I[351,["$2","$3","$4"],"$5"]
+7:"$Sreact.suspense"
+8:I[71939,["$2","$3","$4"],"SiteHeader"]
+9:I[39756,["$2","$3","$4"],"default"]
+a:"/phd-funding/_next/static/chunks/2j7udhiinbd8b.js"
+b:I[8821,["$2","$3","$4","$a"],"default"]
+c:I[37457,["$2","$3","$4"],"default"]
+d:I[22016,["$2","$3","$4"],""]
+e:I[71939,["$2","$3","$4"],"SiteFooter"]
+12:"/phd-funding/_next/static/chunks/2bs70eaeuzqof.js"
+13:"/phd-funding/_next/static/chunks/0jj2yhbakbhx_.js"
+14:I[72439,["$2","$3","$4","$12","$13"],"SavedScreen"]
+15:I[97367,["$2","$3","$4"],"OutletBoundary"]
+17:"ViewportBoundary"
+18:I[97367,["$2","$3","$4"],"$17"]
+1a:"MetadataBoundary"
+1b:I[97367,["$2","$3","$4"],"$1a"]
+1d:I[68027,["$2","$3","$4"],"default",1]
+:HL["/phd-funding/_next/static/chunks/1ck5ek3d7997-.css","style"]
+:HC["/",""]
+10:X
+11:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L14",null,{}],[["$","script","script-0",{"src":"/phd-funding/_next/static/chunks/2bs70eaeuzqof.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/phd-funding/_next/static/chunks/0jj2yhbakbhx_.js","async":true,"nonce":"$undefined"}]],["$","$L15",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+f:[["children",{"s":"saved","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$10"},"c":"$Q11"}]]
+0:{"P":null,"c":["","saved",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/phd-funding/_next/static/chunks/1ck5ek3d7997-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/phd-funding/_next/static/chunks/1je_bqkapjvmn.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/phd-funding/_next/static/chunks/19loop5ypvp5u.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/phd-funding/_next/static/chunks/3awj6t0m-ti9h.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"dark h-full","children":["$","body",null,{"className":"flex min-h-full flex-col","children":[["$","a",null,{"className":"skip-link","href":"#main","children":"跳到内容"}],["$","$L6",null,{"children":[["$","$7",null,{"fallback":["$","header",null,{"className":"border-b border-border px-5 py-4 text-sm text-muted-foreground","children":"Phoebe · 申请卷宗"}],"children":["$","$L8",null,{}]}],["$","main",null,{"id":"main","className":"flex-1","children":["$","$L9",null,{"parallelRouterKey":"children","error":"$b","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/phd-funding/_next/static/chunks/2j7udhiinbd8b.js","async":true,"nonce":"$undefined"}]],"template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"mx-auto max-w-3xl px-5 py-16","children":[["$","h1",null,{"className":"font-display text-4xl","children":"没有这一页"}],["$","p",null,{"className":"mt-4 text-muted-foreground","children":["$","$Ld",null,{"href":"/","className":"underline-offset-4 hover:underline","children":"回到机会列表"}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$Le",null,{}]]}]]}]}]]}],"p":false,"v":null},"c":"$Qf"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$7",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/phd-funding/_next/static/chunks/1ck5ek3d7997-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"PNt87rpOBU1pA9VzhhnPi"}
+10:C
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0c0c0b"}]]
+1e:I[27201,["$2","$3","$4"],"IconMark"]
+16:null
+1c:[["$","title","0",{"children":"Phoebe · 博士申请卷宗"}],["$","meta","1",{"name":"description","content":"英伦与欧陆人类学、社会学、历史学及相关社会科学博士资助的个人申请工作台。已核实数据导入前不陈列机会。"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/phd-funding/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1e","4",{}]]

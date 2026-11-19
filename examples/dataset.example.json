@@ -1,0 +1,476 @@
+{
+  "schemaVersion": 1,
+  "kind": "phoebe-phd-public",
+  "exampleOnly": true,
+  "datasetId": "format-example",
+  "title": "格式示例（虚构，不是资助机会）",
+  "description": "只用来说明 JSON 形状。学校、金额、日期和网址都是虚构的，不能导入正式卷宗，也不能当作申请依据。",
+  "verified": false,
+  "verificationBatch": null,
+  "generatedAt": null,
+  "opportunities": [
+    {
+      "id": "example-uk-anthropology",
+      "exampleOnly": true,
+      "title": "【格式示例·虚构】人类学博士资助",
+      "titleZh": "【格式示例·虚构】人类学博士资助",
+      "institution": "示例大学甲（虚构）",
+      "institutionZh": "示例大学甲（虚构）",
+      "countryCode": "GB",
+      "countryZh": "英国",
+      "city": "示例城",
+      "fields": [
+        "人类学"
+      ],
+      "status": "open",
+      "summary": "虚构条目，用来演示全额资助、带时刻的截止日期，以及上海时间换算。不是公告。",
+      "eligibility": {
+        "international": "yes",
+        "chineseApplicants": "csc-channel",
+        "note": "格式示例：写成“材料只提到国家留学基金委渠道”。不判断读者本人是否走该渠道。"
+      },
+      "funding": {
+        "coverage": "full",
+        "amounts": [
+          {
+            "amount": 18000,
+            "currency": "GBP",
+            "unit": "per-year"
+          }
+        ],
+        "duration": {
+          "text": "格式示例：36 个月",
+          "months": 36
+        },
+        "coversTuition": "yes",
+        "coversStipend": "yes",
+        "feeGap": {
+          "homeFee": {
+            "amount": 9000,
+            "currency": "GBP",
+            "unit": "fee-per-year"
+          },
+          "overseasFee": {
+            "amount": 22000,
+            "currency": "GBP",
+            "unit": "fee-per-year"
+          },
+          "statedGap": null,
+          "stipendCoversGap": "unknown",
+          "note": "金额是格式占位。",
+          "uncertainty": "unknown"
+        },
+        "conditions": "格式示例：资助条件留空处应写来源原文摘要，而不是推测。"
+      },
+      "csc": {
+        "relevant": true,
+        "channel": "unspecified",
+        "returnObligation": {
+          "stated": "unknown",
+          "summary": null,
+          "sourceNote": "格式示例没有回国服务条款。"
+        }
+      },
+      "deadlines": [
+        {
+          "id": "opening",
+          "label": "申请开放（格式用日期）",
+          "role": "opening",
+          "date": "2026-09-01",
+          "timezone": "Europe/London",
+          "clockTimeKnown": false,
+          "uncertainty": "unconfirmed",
+          "note": "只有日期，界面不应把它换算成上海时间。"
+        },
+        {
+          "id": "supervisor",
+          "label": "联系导师（格式用时刻）",
+          "role": "actionable-internal",
+          "date": "2026-11-12T17:00",
+          "timezone": "Europe/London",
+          "clockTimeKnown": true,
+          "uncertainty": "unconfirmed",
+          "note": "虚构时刻，用来演示 Europe/London 到 Asia/Shanghai。"
+        },
+        {
+          "id": "external",
+          "label": "外部资助截止（格式用时刻）",
+          "role": "final-external",
+          "date": "2026-12-01T18:00",
+          "timezone": "Europe/London",
+          "clockTimeKnown": true,
+          "uncertainty": "unconfirmed",
+          "note": "虚构的最终外部截止。",
+          "conflictGroup": "format-clock-conflict",
+          "claim": "格式示例：一处写 18:00"
+        },
+        {
+          "id": "external-alt",
+          "label": "另一处格式用截止",
+          "role": "final-external",
+          "date": "2026-12-01T09:00",
+          "timezone": "Europe/London",
+          "clockTimeKnown": true,
+          "uncertainty": "unconfirmed",
+          "note": "与 18:00 那条并列，演示未解决冲突。不是真实公告。",
+          "conflictGroup": "format-clock-conflict",
+          "claim": "格式示例：另一处写 09:00"
+        }
+      ],
+      "entry": {
+        "text": "2027-10",
+        "uncertainty": "unconfirmed"
+      },
+      "fundingPeriod": {
+        "start": "2027-10",
+        "end": "2030-09",
+        "uncertainty": "unconfirmed",
+        "note": "原文式起止，不是申请截止，也不做时区换算。"
+      },
+      "route": [
+        {
+          "order": 1,
+          "step": "supervisor-contact",
+          "label": "联系潜在导师",
+          "note": "格式示例。应用不会代为联系。"
+        },
+        {
+          "order": 2,
+          "step": "phd-admission",
+          "label": "提交博士入学申请",
+          "note": null
+        },
+        {
+          "order": 3,
+          "step": "funding-application",
+          "label": "提交资助申请",
+          "note": null
+        },
+        {
+          "order": 4,
+          "step": "csc",
+          "label": "若走国家留学基金委，再办理该渠道",
+          "note": "不假设读者会使用该渠道。"
+        }
+      ],
+      "requirements": {
+        "degree": "格式示例文字，不是真实学历要求。",
+        "language": null,
+        "proposal": "格式示例：研究计划一栏可以有摘要。",
+        "writingSample": null,
+        "referees": null,
+        "other": []
+      },
+      "reputation": {
+        "school": {
+          "note": "格式示例不提供学校排名。",
+          "ordinal": null,
+          "ordinalMeaning": null,
+          "sourceNote": null
+        },
+        "subject": {
+          "note": "格式示例不提供学科排名。",
+          "ordinal": null,
+          "ordinalMeaning": null,
+          "sourceNote": null
+        }
+      },
+      "sources": [
+        {
+          "id": "src-uk",
+          "title": "格式示例来源（虚构网址）",
+          "url": "https://example.edu/phoebe-format-only/uk",
+          "publisher": "example.edu",
+          "accessedAt": null
+        }
+      ],
+      "verification": {
+        "verifiedAt": null,
+        "methodNote": "格式示例，未经真实核验。",
+        "uncertainty": "unverified"
+      },
+      "uncertaintyFlags": [
+        "amount-unconfirmed",
+        "csc-obligation-unconfirmed",
+        "reputation-not-ordinal"
+      ],
+      "uncertaintyNotes": [
+        "整条记录都是格式占位。"
+      ],
+      "audit": {
+        "recordStatus": "pending",
+        "auditedOn": null,
+        "auditTimezone": null,
+        "fieldChecks": [
+          {
+            "field": "截止日期",
+            "status": "conflict",
+            "evidence": "格式示例里故意放了两个时刻。",
+            "before": null,
+            "after": null
+          }
+        ],
+        "unresolved": true,
+        "conservativePlanningNote": "格式示例：规划时先看较早的时刻，但不要把它当成唯一官方截止。"
+      }
+    },
+    {
+      "id": "example-de-sociology",
+      "exampleOnly": true,
+      "title": "【格式示例·虚构】社会学与历史学带薪职位",
+      "titleZh": null,
+      "institution": "示例研究所乙（虚构）",
+      "institutionZh": null,
+      "countryCode": "DE",
+      "countryZh": "德国",
+      "city": null,
+      "fields": [
+        "社会学",
+        "历史学"
+      ],
+      "status": "unannounced",
+      "summary": "虚构条目，用来演示未公布、仅日期、带薪职位，以及没有声誉序位。",
+      "eligibility": {
+        "international": "unknown",
+        "chineseApplicants": "unknown",
+        "note": null
+      },
+      "funding": {
+        "coverage": "salaried",
+        "amounts": [],
+        "duration": {
+          "text": null,
+          "months": null
+        },
+        "coversTuition": "unknown",
+        "coversStipend": "unknown",
+        "feeGap": null,
+        "conditions": null
+      },
+      "csc": {
+        "relevant": false,
+        "channel": "not-applicable",
+        "returnObligation": {
+          "stated": "no",
+          "summary": "格式示例：这条不涉及国家留学基金委。",
+          "sourceNote": null
+        }
+      },
+      "deadlines": [
+        {
+          "id": "window",
+          "label": "可能的申请窗（仅日期）",
+          "role": "final-external",
+          "date": "2027-01-15",
+          "timezone": "Europe/Berlin",
+          "clockTimeKnown": false,
+          "uncertainty": "typical-cycle",
+          "note": "往年形状的占位日期，不是本季公告。"
+        }
+      ],
+      "entry": {
+        "text": null,
+        "uncertainty": "unconfirmed"
+      },
+      "fundingPeriod": {
+        "start": null,
+        "end": null,
+        "uncertainty": "unconfirmed",
+        "note": null
+      },
+      "route": [
+        {
+          "order": 1,
+          "step": "phd-admission",
+          "label": "查看职位广告是否出现",
+          "note": "状态是未公布，所以这一步还不能执行。"
+        }
+      ],
+      "requirements": {
+        "degree": null,
+        "language": null,
+        "proposal": null,
+        "writingSample": null,
+        "referees": null,
+        "other": []
+      },
+      "reputation": {
+        "school": null,
+        "subject": null
+      },
+      "sources": [
+        {
+          "id": "src-de",
+          "title": "格式示例来源（虚构网址）",
+          "url": "https://example.edu/phoebe-format-only/de",
+          "publisher": null,
+          "accessedAt": null
+        }
+      ],
+      "verification": {
+        "verifiedAt": null,
+        "methodNote": "格式示例，未经真实核验。",
+        "uncertainty": "unverified"
+      },
+      "uncertaintyFlags": [
+        "cycle-inferred",
+        "eligibility-unconfirmed",
+        "date-unconfirmed"
+      ],
+      "uncertaintyNotes": []
+    },
+    {
+      "id": "example-fr-history",
+      "exampleOnly": true,
+      "title": "【格式示例·虚构】历史学部分资助",
+      "titleZh": null,
+      "institution": "示例大学丙（虚构）",
+      "institutionZh": null,
+      "countryCode": "FR",
+      "countryZh": "法国",
+      "city": "示例港",
+      "fields": [
+        "历史学"
+      ],
+      "status": "closed",
+      "summary": "虚构条目，用来演示已截止、部分资助，以及带含义说明的声誉序位。序位不是排名表。",
+      "eligibility": {
+        "international": "yes",
+        "chineseApplicants": "no",
+        "note": "格式示例把中国申请人写成“不包含”，只为演示筛选项。"
+      },
+      "funding": {
+        "coverage": "partial",
+        "amounts": [
+          {
+            "amount": 12000,
+            "currency": "EUR",
+            "unit": "total"
+          }
+        ],
+        "duration": {
+          "text": "格式示例：一年",
+          "months": 12
+        },
+        "coversTuition": "partial",
+        "coversStipend": "no",
+        "feeGap": {
+          "homeFee": {
+            "amount": 400,
+            "currency": "EUR",
+            "unit": "fee-per-year"
+          },
+          "overseasFee": {
+            "amount": 380,
+            "currency": "EUR",
+            "unit": "fee-per-year"
+          },
+          "statedGap": {
+            "amount": 0,
+            "currency": "EUR",
+            "unit": "fee-per-year"
+          },
+          "stipendCoversGap": "no",
+          "note": "格式示例单列了差额。界面应显示单列数字，而不是另外编一个。",
+          "uncertainty": "estimated"
+        },
+        "conditions": null
+      },
+      "csc": {
+        "relevant": false,
+        "channel": "not-applicable",
+        "returnObligation": {
+          "stated": "unknown",
+          "summary": null,
+          "sourceNote": null
+        }
+      },
+      "deadlines": [
+        {
+          "id": "closed-on",
+          "label": "已过的外部截止（格式用时刻）",
+          "role": "final-external",
+          "date": "2026-07-15T17:00",
+          "timezone": "Europe/Paris",
+          "clockTimeKnown": true,
+          "uncertainty": "confirmed",
+          "note": "虚构，但时刻完整，可演示夏令时换算。"
+        }
+      ],
+      "entry": {
+        "text": "2026-09",
+        "uncertainty": "confirmed"
+      },
+      "fundingPeriod": {
+        "start": "2026-09-01",
+        "end": "2027-08-31",
+        "uncertainty": "confirmed",
+        "note": null
+      },
+      "route": [
+        {
+          "order": 1,
+          "step": "internal-nomination",
+          "label": "院系提名",
+          "note": null
+        },
+        {
+          "order": 2,
+          "step": "funding-application",
+          "label": "资助表",
+          "note": null
+        }
+      ],
+      "requirements": {
+        "degree": null,
+        "language": "格式示例：语言要求栏。",
+        "proposal": null,
+        "writingSample": "格式示例：写作样本栏。",
+        "referees": "格式示例：两位推荐人。",
+        "other": [
+          "格式示例：其他材料一条。"
+        ]
+      },
+      "reputation": {
+        "school": {
+          "note": "定性说明可以和序位同时存在。",
+          "ordinal": 2,
+          "ordinalMeaning": "格式示例序位，不是真实排名，数字小只在本文件里表示靠前。",
+          "sourceNote": "没有真实来源。"
+        },
+        "subject": {
+          "note": null,
+          "ordinal": 1,
+          "ordinalMeaning": "格式示例学科序位，不是真实排名。",
+          "sourceNote": null
+        }
+      },
+      "sources": [
+        {
+          "id": "src-fr",
+          "title": "格式示例来源（虚构网址）",
+          "url": "https://example.edu/phoebe-format-only/fr",
+          "publisher": "example.edu",
+          "accessedAt": "2026-01-01"
+        }
+      ],
+      "verification": {
+        "verifiedAt": null,
+        "methodNote": "格式示例，未经真实核验。",
+        "uncertainty": "unverified"
+      },
+      "uncertaintyFlags": [
+        "fee-gap-unconfirmed"
+      ],
+      "uncertaintyNotes": [
+        "序位是格式数字。"
+      ]
+    }
+  ],
+  "provenance": {
+    "auditedOn": null,
+    "auditTimezone": null,
+    "methodNote": "格式示例，不是 2026-11-18 的核验稿。",
+    "sourceFile": "public/examples/dataset.example.json"
+  }
+}
